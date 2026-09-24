@@ -1,0 +1,194 @@
+[
+  {
+    "id": 157,
+    "name": "Bayern Munich",
+    "logo": "https://media.api-sports.io/football/teams/157.png",
+    "group": "Group A"
+  },
+  {
+    "id": 400,
+    "name": "FC Copenhagen",
+    "logo": "https://media.api-sports.io/football/teams/400.png",
+    "group": "Group A"
+  },
+  {
+    "id": 645,
+    "name": "Galatasaray",
+    "logo": "https://media.api-sports.io/football/teams/645.png",
+    "group": "Group A"
+  },
+  {
+    "id": 33,
+    "name": "Manchester United",
+    "logo": "https://media.api-sports.io/football/teams/33.png",
+    "group": "Group A"
+  },
+  {
+    "id": 42,
+    "name": "Arsenal",
+    "logo": "https://media.api-sports.io/football/teams/42.png",
+    "group": "Group B"
+  },
+  {
+    "id": 197,
+    "name": "PSV Eindhoven",
+    "logo": "https://media.api-sports.io/football/teams/197.png",
+    "group": "Group B"
+  },
+  {
+    "id": 116,
+    "name": "Lens",
+    "logo": "https://media.api-sports.io/football/teams/116.png",
+    "group": "Group B"
+  },
+  {
+    "id": 536,
+    "name": "Sevilla",
+    "logo": "https://media.api-sports.io/football/teams/536.png",
+    "group": "Group B"
+  },
+  {
+    "id": 541,
+    "name": "Real Madrid",
+    "logo": "https://media.api-sports.io/football/teams/541.png",
+    "group": "Group C"
+  },
+  {
+    "id": 492,
+    "name": "Napoli",
+    "logo": "https://media.api-sports.io/football/teams/492.png",
+    "group": "Group C"
+  },
+  {
+    "id": 217,
+    "name": "SC Braga",
+    "logo": "https://media.api-sports.io/football/teams/217.png",
+    "group": "Group C"
+  },
+  {
+    "id": 182,
+    "name": "Union Berlin",
+    "logo": "https://media.api-sports.io/football/teams/182.png",
+    "group": "Group C"
+  },
+  {
+    "id": 548,
+    "name": "Real Sociedad",
+    "logo": "https://media.api-sports.io/football/teams/548.png",
+    "group": "Group D"
+  },
+  {
+    "id": 505,
+    "name": "Inter",
+    "logo": "https://media.api-sports.io/football/teams/505.png",
+    "group": "Group D"
+  },
+  {
+    "id": 211,
+    "name": "Benfica",
+    "logo": "https://media.api-sports.io/football/teams/211.png",
+    "group": "Group D"
+  },
+  {
+    "id": 571,
+    "name": "Red Bull Salzburg",
+    "logo": "https://media.api-sports.io/football/teams/571.png",
+    "group": "Group D"
+  },
+  {
+    "id": 530,
+    "name": "Atletico Madrid",
+    "logo": "https://media.api-sports.io/football/teams/530.png",
+    "group": "Group E"
+  },
+  {
+    "id": 487,
+    "name": "Lazio",
+    "logo": "https://media.api-sports.io/football/teams/487.png",
+    "group": "Group E"
+  },
+  {
+    "id": 209,
+    "name": "Feyenoord",
+    "logo": "https://media.api-sports.io/football/teams/209.png",
+    "group": "Group E"
+  },
+  {
+    "id": 247,
+    "name": "Celtic",
+    "logo": "https://media.api-sports.io/football/teams/247.png",
+    "group": "Group E"
+  },
+  {
+    "id": 165,
+    "name": "Borussia Dortmund",
+    "logo": "https://media.api-sports.io/football/teams/165.png",
+    "group": "Group F"
+  },
+  {
+    "id": 85,
+    "name": "Paris Saint Germain",
+    "logo": "https://media.api-sports.io/football/teams/85.png",
+    "group": "Group F"
+  },
+  {
+    "id": 489,
+    "name": "AC Milan",
+    "logo": "https://media.api-sports.io/football/teams/489.png",
+    "group": "Group F"
+  },
+  {
+    "id": 34,
+    "name": "Newcastle",
+    "logo": "https://media.api-sports.io/football/teams/34.png",
+    "group": "Group F"
+  },
+  {
+    "id": 50,
+    "name": "Manchester City",
+    "logo": "https://media.api-sports.io/football/teams/50.png",
+    "group": "Group G"
+  },
+  {
+    "id": 173,
+    "name": "RB Leipzig",
+    "logo": "https://media.api-sports.io/football/teams/173.png",
+    "group": "Group G"
+  },
+  {
+    "id": 565,
+    "name": "BSC Young Boys",
+    "logo": "https://media.api-sports.io/football/teams/565.png",
+    "group": "Group G"
+  },
+  {
+    "id": 598,
+    "name": "FK Crvena Zvezda",
+    "logo": "https://media.api-sports.io/football/teams/598.png",
+    "group": "Group G"
+  },
+  {
+    "id": 529,
+    "name": "Barcelona",
+    "logo": "https://media.api-sports.io/football/teams/529.png",
+    "group": "Group H"
+  },
+  {
+    "id": 212,
+    "name": "FC Porto",
+    "logo": "https://media.api-sports.io/football/teams/212.png",
+    "group": "Group H"
+  },
+  {
+    "id": 550,
+    "name": "Shakhtar Donetsk",
+    "logo": "https://media.api-sports.io/football/teams/550.png",
+    "group": "Group H"
+  },
+  {
+    "id": 740,
+    "name": "Antwerp",
+    "logo": "https://media.api-sports.io/football/teams/740.png",
+    "group": "Group H"
+  }
+]
