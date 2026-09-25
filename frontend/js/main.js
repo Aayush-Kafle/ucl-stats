@@ -16,6 +16,10 @@ function playerCard(player) {
     ? `<img class="player-photo" src="${player.photo}" alt="${player.name}" loading="lazy" />`
     : `<div class="player-photo player-photo--placeholder">${initials(player.name)}</div>`;
 
+  const valueBadge = player.marketValue
+    ? `<div class="value-badge">${player.marketValue.valueDisplay}</div>`
+    : '';
+
   card.innerHTML = `
     ${photo}
     <div class="player-info">
@@ -26,6 +30,7 @@ function playerCard(player) {
       </div>
       <div class="player-position">${player.position || '—'}</div>
     </div>
+    ${valueBadge}
     <div class="player-stats">
       <div class="stat"><span class="stat-value">${player.goals}</span><span class="stat-label">G</span></div>
       <div class="stat"><span class="stat-value">${player.assists}</span><span class="stat-label">A</span></div>
