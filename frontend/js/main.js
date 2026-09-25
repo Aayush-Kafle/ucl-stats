@@ -20,6 +20,16 @@ function playerCard(player) {
     ? `<div class="value-badge">${player.marketValue.valueDisplay}</div>`
     : '';
 
+  let scoreBadge = '';
+  if (player.valuation) {
+    let deltaClass = 'score-badge--neutral';
+    if (player.marketValue) {
+      const delta = player.valuation.impliedValueEUR - player.marketValue.valueEUR;
+      deltaClass = delta > 0 ? 'score-badge--under' : 'score-badge--over';
+    }
+    scoreBadge = `<div class="score-badge ${deltaClass}">Score ${player.valuation.score}</div>`;
+  }
+
   card.innerHTML = `
     ${photo}
     <div class="player-info">
@@ -30,7 +40,7 @@ function playerCard(player) {
       </div>
       <div class="player-position">${player.position || '—'}</div>
     </div>
-    ${valueBadge}
+    <div class="badge-row">${valueBadge}${scoreBadge}</div>
     <div class="player-stats">
       <div class="stat"><span class="stat-value">${player.goals}</span><span class="stat-label">G</span></div>
       <div class="stat"><span class="stat-value">${player.assists}</span><span class="stat-label">A</span></div>
