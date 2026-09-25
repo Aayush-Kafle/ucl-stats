@@ -11,11 +11,22 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+function displayName(firstname, lastname) {
+  // API-Football's own abbreviated `name` field is sometimes mojibake'd
+  // (e.g. "HÃ¸jlund" instead of "Højlund") even though firstname/lastname
+  // are correctly encoded — so derive the display name ourselves instead
+  // of trusting that field.
+  const first = (firstname || '').trim();
+  const lastWord = (lastname || '').trim().split(/\s+/).pop() || '';
+  if (!first || !lastWord) return firstname || lastname || 'Unknown';
+  return `${first[0]}. ${lastWord}`;
+}
+
 function simplifyPlayer(entry, team) {
   const stats = entry.statistics[0] || {};
   return {
     id: entry.player.id,
-    name: entry.player.name,
+    name: displayName(entry.player.firstname, entry.player.lastname),
     firstname: entry.player.firstname,
     lastname: entry.player.lastname,
     age: entry.player.age,
