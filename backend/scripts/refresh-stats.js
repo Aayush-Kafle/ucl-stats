@@ -11,14 +11,17 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function displayName(firstname, lastname) {
-  // API-Football's own abbreviated `name` field is sometimes mojibake'd
-  // (e.g. "HÃ¸jlund" instead of "Højlund") even though firstname/lastname
-  // are correctly encoded — so derive the display name ourselves instead
-  // of trusting that field.
+function displayName(apiName, firstname, lastname) {
+  // API-Football's own abbreviated `name` field is usually a good, curated
+  // display name (e.g. "Rodrygo", "K. Mbappé") — trust it by default. Only
+  // reconstruct from firstname/lastname when it's missing or mojibake'd
+  // (e.g. "HÃ¸jlund" instead of "Højlund"), since a naive "initial + last
+  // surname word" rule breaks for players known by a name other than their
+  // final legal surname (e.g. Mbappé's legal surname is "Mbappé Lottin").
+  if (apiName && !/Ã.|Â./.test(apiName)) return apiName;
   const first = (firstname || '').trim();
   const lastWord = (lastname || '').trim().split(/\s+/).pop() || '';
-  if (!first || !lastWord) return firstname || lastname || 'Unknown';
+  if (!first || !lastWord) return firstname || lastname || apiName || 'Unknown';
   return `${first[0]}. ${lastWord}`;
 }
 
@@ -26,7 +29,7 @@ function simplifyPlayer(entry, team) {
   const stats = entry.statistics[0] || {};
   return {
     id: entry.player.id,
-    name: displayName(entry.player.firstname, entry.player.lastname),
+    name: displayName(entry.player.name, entry.player.firstname, entry.player.lastname),
     firstname: entry.player.firstname,
     lastname: entry.player.lastname,
     age: entry.player.age,
