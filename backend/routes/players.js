@@ -2,13 +2,19 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const { findMarketValue } = require('../services/marketValues');
+const { computeValuations } = require('../services/valuation');
 
 const router = express.Router();
 const SNAPSHOT_PATH = path.join(__dirname, '..', 'data', 'players-snapshot.json');
 
 function loadPlayers() {
   const players = JSON.parse(fs.readFileSync(SNAPSHOT_PATH, 'utf8'));
-  return players.map((p) => ({ ...p, marketValue: findMarketValue(p) }));
+  const valuations = computeValuations(players); // percentiles need the full pool
+  return players.map((p) => ({
+    ...p,
+    marketValue: findMarketValue(p),
+    valuation: valuations.get(p.id),
+  }));
 }
 
 router.get('/', (req, res) => {
