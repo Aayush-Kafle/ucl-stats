@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Methodology &mdash; UCL Stats</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="back-link" href="index.html">&larr; All players</a>
+  </header>
+
+  <main>
+    <div class="player-detail">
+      <section class="panel">
+        <h2>Data sources</h2>
+        <p>
+          Player stats (goals, assists, minutes, appearances, cards, rating) come from the
+          <strong>API-Football</strong> API, scoped to the 2023-24 UEFA Champions League
+          group-stage teams and their squads.
+        </p>
+        <p>
+          Market values come from <strong>Transfermarkt</strong>, which has no official API.
+          Values are scraped from each club's current squad page &mdash; and here's the
+          important caveat: Transfermarkt's squad pages reflect <em>who is on the club's
+          roster today</em>, not who was there in 2023-24. Players who have since left a
+          club simply show no market value (roughly 16% of the 2023-24 dataset), and values
+          shown for remaining players are current, not dated to that season. There's no
+          reliable free source for true historical squad valuations, so this is a
+          deliberate, disclosed limitation rather than a bug.
+        </p>
+      </section>
+
+      <section class="panel">
+        <h2>How the value score works</h2>
+        <p>
+          The "value score" is a 0&ndash;100 heuristic built entirely from the stats above
+          &mdash; it is <strong>not</strong> a market prediction, just a transparent, explainable
+          index for comparison against real market value. It's built from five ingredients,
+          each turned into a percentile (0&ndash;100) or curve within the player's position group:
+        </p>
+        <ul>
+          <li><strong>Goals per 90</strong> and <strong>assists per 90</strong> minutes, percentile-ranked against other players in the same position group.</li>
+          <li><strong>Minutes reliability</strong> &mdash; caps out once a player has played the equivalent of 10 full matches (900 minutes), so a small sample of great games doesn't overwhelm the score.</li>
+          <li><strong>An age curve</strong> &mdash; a small bonus for players 21 or under, a small penalty past 32, reflecting typical value trajectories.</li>
+          <li><strong>Appearances</strong>, percentile-ranked, rewarding consistent selection.</li>
+        </ul>
+        <p>
+          Attackers and midfielders weight goals/assists heavily (35% + 25% of the score).
+          Defenders and goalkeepers rarely score or assist, and we don't have defensive
+          stats like tackles or clean sheets to weight on instead &mdash; so for those
+          positions, the goal/assist weight is redistributed toward reliability, age, and
+          appearances instead.
+        </p>
+        <p>
+          The final score is mapped to an "implied value" in euros by scaling it against a
+          rough per-position ceiling (&euro;180m for forwards down to &euro;80m for
+          goalkeepers), calibrated by eye against a handful of known real valuations. This
+          number exists purely so the score can be plotted on the same axis as a real market
+          value for comparison &mdash; treat it as an index, not an appraisal.
+        </p>
+      </section>
+
+      <section class="panel">
+        <h2>Known limitations</h2>
+        <ul>
+          <li>Market values are current, not historical (see above).</li>
+          <li>No defensive-actions data (tackles, interceptions, clean sheets), so defender/goalkeeper scores lean more on reliability and age than on-pitch defensive quality.</li>
+          <li>Scope is the 2023-24 Champions League group stage only &mdash; the most recent season the free API tier covers.</li>
+        </ul>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
