@@ -23,13 +23,13 @@ function simplifyPlayer(entry, team) {
     photo: entry.player.photo,
     position: stats.games ? stats.games.position : null,
     team: { id: team.id, name: team.name, logo: team.logo },
-    appearances: stats.games ? stats.games.appearences : 0,
-    minutes: stats.games ? stats.games.minutes : 0,
+    appearances: (stats.games && stats.games.appearences) || 0,
+    minutes: (stats.games && stats.games.minutes) || 0,
     rating: stats.games ? stats.games.rating : null,
-    goals: stats.goals ? stats.goals.total : 0,
-    assists: stats.goals ? stats.goals.assists : 0,
-    yellowCards: stats.cards ? stats.cards.yellow : 0,
-    redCards: stats.cards ? stats.cards.red : 0,
+    goals: (stats.goals && stats.goals.total) || 0,
+    assists: (stats.goals && stats.goals.assists) || 0,
+    yellowCards: (stats.cards && stats.cards.yellow) || 0,
+    redCards: (stats.cards && stats.cards.red) || 0,
   };
 }
 

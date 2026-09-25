@@ -39,7 +39,7 @@
     "minutes": 810,
     "rating": "7.044444",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -61,7 +61,7 @@
     "minutes": 270,
     "rating": "6.950000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -105,7 +105,7 @@
     "minutes": 704,
     "rating": "6.987500",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -149,7 +149,7 @@
     "minutes": 500,
     "rating": "7.120000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 1
   },
@@ -193,7 +193,7 @@
     "minutes": 12,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -215,7 +215,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -237,7 +237,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -259,7 +259,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -303,7 +303,7 @@
     "minutes": 883,
     "rating": "7.240000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -325,7 +325,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -347,7 +347,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -369,7 +369,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -391,7 +391,7 @@
     "minutes": 206,
     "rating": "7.100000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -413,7 +413,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -435,7 +435,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -457,7 +457,7 @@
     "minutes": 0,
     "rating": "6.727272",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -478,8 +478,8 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "6.920000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -523,7 +523,7 @@
     "minutes": 39,
     "rating": "6.633333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -545,7 +545,7 @@
     "minutes": 449,
     "rating": "7.200000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -567,7 +567,7 @@
     "minutes": 199,
     "rating": "6.680000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -633,7 +633,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -743,7 +743,7 @@
     "minutes": 0,
     "rating": "6.975000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -765,7 +765,7 @@
     "minutes": 0,
     "rating": "7.650000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -786,8 +786,8 @@
     "appearances": 8,
     "minutes": 568,
     "rating": "6.962500",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -831,7 +831,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -853,7 +853,7 @@
     "minutes": 4,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -875,7 +875,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -897,7 +897,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -919,7 +919,7 @@
     "minutes": 372,
     "rating": "7.050000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -940,8 +940,8 @@
     "appearances": 4,
     "minutes": 108,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -963,7 +963,7 @@
     "minutes": 508,
     "rating": "6.814285",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -985,7 +985,7 @@
     "minutes": 167,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1007,7 +1007,7 @@
     "minutes": 1213,
     "rating": "7.133333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -1051,7 +1051,7 @@
     "minutes": 699,
     "rating": "7.000000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -1073,7 +1073,7 @@
     "minutes": 1046,
     "rating": "7.010000",
     "goals": 3,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 5,
     "redCards": 0
   },
@@ -1095,7 +1095,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1117,7 +1117,7 @@
     "minutes": 1290,
     "rating": "7.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1139,7 +1139,7 @@
     "minutes": 113,
     "rating": "7.050000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -1183,7 +1183,7 @@
     "minutes": 1008,
     "rating": "7.181818",
     "goals": 3,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -1227,7 +1227,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1249,7 +1249,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1271,7 +1271,7 @@
     "minutes": 1234,
     "rating": "7.358333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -1315,7 +1315,7 @@
     "minutes": 180,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1337,7 +1337,7 @@
     "minutes": 32,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -1359,7 +1359,7 @@
     "minutes": 560,
     "rating": "6.625000",
     "goals": 3,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1403,7 +1403,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1425,7 +1425,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1447,7 +1447,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1469,7 +1469,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1491,7 +1491,7 @@
     "minutes": 208,
     "rating": "6.366666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -1513,7 +1513,7 @@
     "minutes": 368,
     "rating": "6.662500",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1535,7 +1535,7 @@
     "minutes": 90,
     "rating": "6.575000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1557,7 +1557,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1579,7 +1579,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1600,8 +1600,8 @@
     "appearances": 7,
     "minutes": 605,
     "rating": "6.857142",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -1623,7 +1623,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1645,7 +1645,7 @@
     "minutes": 223,
     "rating": "6.233333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1667,7 +1667,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1688,8 +1688,8 @@
     "appearances": 1,
     "minutes": 58,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1711,7 +1711,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1732,7 +1732,7 @@
     "appearances": 4,
     "minutes": 360,
     "rating": "7.050000",
-    "goals": null,
+    "goals": 0,
     "assists": 2,
     "yellowCards": 0,
     "redCards": 0
@@ -1777,7 +1777,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1798,7 +1798,7 @@
     "appearances": 3,
     "minutes": 142,
     "rating": "7.066666",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -1820,8 +1820,8 @@
     "appearances": 3,
     "minutes": 122,
     "rating": "6.850000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1842,8 +1842,8 @@
     "appearances": 7,
     "minutes": 563,
     "rating": "6.828571",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 1
   },
@@ -1864,8 +1864,8 @@
     "appearances": 10,
     "minutes": 531,
     "rating": "6.740000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -1887,7 +1887,7 @@
     "minutes": 87,
     "rating": "6.600000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -1908,8 +1908,8 @@
     "appearances": 1,
     "minutes": 12,
     "rating": "6.300000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1931,7 +1931,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1952,8 +1952,8 @@
     "appearances": 10,
     "minutes": 829,
     "rating": "7.150000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -1975,7 +1975,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -1996,7 +1996,7 @@
     "appearances": 10,
     "minutes": 360,
     "rating": "6.830000",
-    "goals": null,
+    "goals": 0,
     "assists": 3,
     "yellowCards": 1,
     "redCards": 0
@@ -2019,7 +2019,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2040,8 +2040,8 @@
     "appearances": 2,
     "minutes": 138,
     "rating": "6.600000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2063,7 +2063,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2084,8 +2084,8 @@
     "appearances": 5,
     "minutes": 361,
     "rating": "6.960000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2107,7 +2107,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2129,7 +2129,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2151,7 +2151,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2173,7 +2173,7 @@
     "minutes": 697,
     "rating": "6.966666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2195,7 +2195,7 @@
     "minutes": 559,
     "rating": "7.155555",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2216,8 +2216,8 @@
     "appearances": 10,
     "minutes": 900,
     "rating": "7.080000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2239,7 +2239,7 @@
     "minutes": 33,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2260,8 +2260,8 @@
     "appearances": 6,
     "minutes": 287,
     "rating": "6.333333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2280,7 +2280,7 @@
       "logo": "https://media.api-sports.io/football/teams/645.png"
     },
     "appearances": 1,
-    "minutes": null,
+    "minutes": 0,
     "rating": null,
     "goals": 0,
     "assists": 0,
@@ -2304,8 +2304,8 @@
     "appearances": 10,
     "minutes": 900,
     "rating": "6.980000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -2327,7 +2327,7 @@
     "minutes": 178,
     "rating": "6.983333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2348,8 +2348,8 @@
     "appearances": 7,
     "minutes": 388,
     "rating": "6.600000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2371,7 +2371,7 @@
     "minutes": 57,
     "rating": "7.100000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2393,7 +2393,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2414,8 +2414,8 @@
     "appearances": 1,
     "minutes": 78,
     "rating": "6.900000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2437,7 +2437,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2459,7 +2459,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2481,7 +2481,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2503,7 +2503,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2525,7 +2525,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2547,7 +2547,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2569,7 +2569,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2591,7 +2591,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2634,8 +2634,8 @@
     "appearances": 3,
     "minutes": 76,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2679,7 +2679,7 @@
     "minutes": 423,
     "rating": "6.700000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2745,7 +2745,7 @@
     "minutes": 335,
     "rating": "6.750000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2789,7 +2789,7 @@
     "minutes": 46,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2811,7 +2811,7 @@
     "minutes": 90,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2833,7 +2833,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2855,7 +2855,7 @@
     "minutes": 310,
     "rating": "7.175000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2877,7 +2877,7 @@
     "minutes": 233,
     "rating": "6.766666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -2921,7 +2921,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2943,7 +2943,7 @@
     "minutes": 91,
     "rating": "6.500000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2965,7 +2965,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -2987,7 +2987,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3009,7 +3009,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3031,7 +3031,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3053,7 +3053,7 @@
     "minutes": 62,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3075,7 +3075,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3097,7 +3097,7 @@
     "minutes": 42,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3119,7 +3119,7 @@
     "minutes": 300,
     "rating": "6.560000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3141,7 +3141,7 @@
     "minutes": 489,
     "rating": "7.100000",
     "goals": 5,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3162,8 +3162,8 @@
     "appearances": 5,
     "minutes": 327,
     "rating": "6.620000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -3206,8 +3206,8 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "6.860000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3229,7 +3229,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3251,7 +3251,7 @@
     "minutes": 153,
     "rating": "7.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3273,7 +3273,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3317,7 +3317,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3361,7 +3361,7 @@
     "minutes": 65,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3383,7 +3383,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3405,7 +3405,7 @@
     "minutes": 108,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3427,7 +3427,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3449,7 +3449,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3471,7 +3471,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3493,7 +3493,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3515,7 +3515,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3537,7 +3537,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3559,7 +3559,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3581,7 +3581,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3602,8 +3602,8 @@
     "appearances": 1,
     "minutes": 77,
     "rating": "6.300000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 1
   },
@@ -3624,8 +3624,8 @@
     "appearances": 5,
     "minutes": 372,
     "rating": "6.580000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -3646,8 +3646,8 @@
     "appearances": 3,
     "minutes": 207,
     "rating": "6.566666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3691,7 +3691,7 @@
     "minutes": 278,
     "rating": "6.820000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -3757,7 +3757,7 @@
     "minutes": 833,
     "rating": "6.811111",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -3779,7 +3779,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3823,7 +3823,7 @@
     "minutes": 136,
     "rating": "6.683333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3845,7 +3845,7 @@
     "minutes": 533,
     "rating": "6.987500",
     "goals": 4,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3889,7 +3889,7 @@
     "minutes": 840,
     "rating": "7.012500",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3933,7 +3933,7 @@
     "minutes": 902,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -3955,7 +3955,7 @@
     "minutes": 930,
     "rating": "7.033333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -3999,7 +3999,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4043,7 +4043,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4065,7 +4065,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4087,7 +4087,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4109,7 +4109,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4131,7 +4131,7 @@
     "minutes": 4,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -4153,7 +4153,7 @@
     "minutes": 0,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4175,7 +4175,7 @@
     "minutes": 41,
     "rating": "6.850000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4197,7 +4197,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4218,8 +4218,8 @@
     "appearances": 9,
     "minutes": 63,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4241,7 +4241,7 @@
     "minutes": 532,
     "rating": "7.012500",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -4285,7 +4285,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4307,7 +4307,7 @@
     "minutes": 90,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4329,7 +4329,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4351,7 +4351,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4373,7 +4373,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4395,7 +4395,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4417,7 +4417,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4439,7 +4439,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4461,7 +4461,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4483,7 +4483,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4505,7 +4505,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4527,7 +4527,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4549,7 +4549,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4570,8 +4570,8 @@
     "appearances": 1,
     "minutes": 62,
     "rating": "6.300000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4592,8 +4592,8 @@
     "appearances": 2,
     "minutes": 65,
     "rating": "6.800000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4614,8 +4614,8 @@
     "appearances": 7,
     "minutes": 388,
     "rating": "6.716666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -4637,7 +4637,7 @@
     "minutes": 90,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4681,7 +4681,7 @@
     "minutes": 183,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4703,7 +4703,7 @@
     "minutes": 378,
     "rating": "6.950000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 4,
     "redCards": 0
   },
@@ -4725,7 +4725,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4747,7 +4747,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4791,7 +4791,7 @@
     "minutes": 712,
     "rating": "6.742857",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -4835,7 +4835,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4857,7 +4857,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4879,7 +4879,7 @@
     "minutes": 588,
     "rating": "7.050000",
     "goals": 3,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4901,7 +4901,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4945,7 +4945,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4967,7 +4967,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -4989,7 +4989,7 @@
     "minutes": 89,
     "rating": "6.250000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5011,7 +5011,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5033,7 +5033,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5055,7 +5055,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5098,8 +5098,8 @@
     "appearances": 4,
     "minutes": 330,
     "rating": "7.625000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5121,7 +5121,7 @@
     "minutes": 715,
     "rating": "7.044444",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -5143,7 +5143,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5164,8 +5164,8 @@
     "appearances": 4,
     "minutes": 278,
     "rating": "6.725000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5187,7 +5187,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5209,7 +5209,7 @@
     "minutes": 360,
     "rating": "7.225000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5231,7 +5231,7 @@
     "minutes": 1080,
     "rating": "6.836363",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5253,7 +5253,7 @@
     "minutes": 967,
     "rating": "7.230000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -5275,7 +5275,7 @@
     "minutes": 84,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5297,7 +5297,7 @@
     "minutes": 244,
     "rating": "6.525000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5385,7 +5385,7 @@
     "minutes": 21,
     "rating": "6.633333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -5407,7 +5407,7 @@
     "minutes": 370,
     "rating": "6.725000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -5429,7 +5429,7 @@
     "minutes": 496,
     "rating": "6.680000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -5451,7 +5451,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5473,7 +5473,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5517,7 +5517,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5539,7 +5539,7 @@
     "minutes": 99,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5561,7 +5561,7 @@
     "minutes": 512,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -5583,7 +5583,7 @@
     "minutes": 52,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -5605,7 +5605,7 @@
     "minutes": 223,
     "rating": "6.850000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -5627,7 +5627,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5649,7 +5649,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5671,7 +5671,7 @@
     "minutes": 496,
     "rating": "6.620000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -5693,7 +5693,7 @@
     "minutes": 113,
     "rating": "6.566666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5715,7 +5715,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5737,7 +5737,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5759,7 +5759,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5781,7 +5781,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5803,7 +5803,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5825,7 +5825,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5847,7 +5847,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5890,8 +5890,8 @@
     "appearances": 3,
     "minutes": 110,
     "rating": "6.566666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -5913,7 +5913,7 @@
     "minutes": 372,
     "rating": "6.540000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -5935,7 +5935,7 @@
     "minutes": 0,
     "rating": "6.980000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -5957,7 +5957,7 @@
     "minutes": 540,
     "rating": "7.040000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -5979,7 +5979,7 @@
     "minutes": 67,
     "rating": "6.433333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6001,7 +6001,7 @@
     "minutes": 540,
     "rating": "6.760000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -6023,7 +6023,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6067,7 +6067,7 @@
     "minutes": 36,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6088,8 +6088,8 @@
     "appearances": 3,
     "minutes": 135,
     "rating": "6.233333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6111,7 +6111,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6133,7 +6133,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6155,7 +6155,7 @@
     "minutes": 28,
     "rating": "5.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6199,7 +6199,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6243,7 +6243,7 @@
     "minutes": 60,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6265,7 +6265,7 @@
     "minutes": 373,
     "rating": "6.540000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6287,7 +6287,7 @@
     "minutes": 347,
     "rating": "6.675000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -6309,7 +6309,7 @@
     "minutes": 219,
     "rating": "6.966666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6331,7 +6331,7 @@
     "minutes": 360,
     "rating": "6.733333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6353,7 +6353,7 @@
     "minutes": 215,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -6375,7 +6375,7 @@
     "minutes": 36,
     "rating": "6.450000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6397,7 +6397,7 @@
     "minutes": 328,
     "rating": "6.433333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6419,7 +6419,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6441,7 +6441,7 @@
     "minutes": 31,
     "rating": "6.250000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6485,7 +6485,7 @@
     "minutes": 166,
     "rating": "6.500000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6507,7 +6507,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6529,7 +6529,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6551,7 +6551,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6573,7 +6573,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6595,7 +6595,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6617,7 +6617,7 @@
     "minutes": 186,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6638,8 +6638,8 @@
     "appearances": 3,
     "minutes": 108,
     "rating": "6.400000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6661,7 +6661,7 @@
     "minutes": 420,
     "rating": "7.066666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 1
   },
@@ -6683,7 +6683,7 @@
     "minutes": 450,
     "rating": "6.780000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6704,7 +6704,7 @@
     "appearances": 3,
     "minutes": 197,
     "rating": "6.200000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -6727,7 +6727,7 @@
     "minutes": 82,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6749,7 +6749,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6771,7 +6771,7 @@
     "minutes": 180,
     "rating": "7.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6792,8 +6792,8 @@
     "appearances": 3,
     "minutes": 220,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6814,8 +6814,8 @@
     "appearances": 2,
     "minutes": 81,
     "rating": "6.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6837,7 +6837,7 @@
     "minutes": 434,
     "rating": "6.940000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -6859,7 +6859,7 @@
     "minutes": 93,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -6880,7 +6880,7 @@
     "appearances": 3,
     "minutes": 12,
     "rating": "6.700000",
-    "goals": null,
+    "goals": 0,
     "assists": 0,
     "yellowCards": 0,
     "redCards": 0
@@ -7057,7 +7057,7 @@
     "minutes": 153,
     "rating": "7.250000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7189,7 +7189,7 @@
     "minutes": 605,
     "rating": "6.871428",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -7233,7 +7233,7 @@
     "minutes": 360,
     "rating": "7.066666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -7321,7 +7321,7 @@
     "minutes": 750,
     "rating": "7.587500",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7365,7 +7365,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7387,7 +7387,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7409,7 +7409,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7431,7 +7431,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7453,7 +7453,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7475,7 +7475,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7497,7 +7497,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7519,7 +7519,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7541,7 +7541,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7563,7 +7563,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7585,7 +7585,7 @@
     "minutes": 38,
     "rating": "7.250000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7607,7 +7607,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7629,7 +7629,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7651,7 +7651,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7695,7 +7695,7 @@
     "minutes": 720,
     "rating": "7.342857",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7717,7 +7717,7 @@
     "minutes": 214,
     "rating": "6.833333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7739,7 +7739,7 @@
     "minutes": 21,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7761,7 +7761,7 @@
     "minutes": 471,
     "rating": "7.080000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -7805,7 +7805,7 @@
     "minutes": 430,
     "rating": "6.525000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -7827,7 +7827,7 @@
     "minutes": 553,
     "rating": "7.233333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -7848,8 +7848,8 @@
     "appearances": 4,
     "minutes": 120,
     "rating": "6.750000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7871,7 +7871,7 @@
     "minutes": 371,
     "rating": "6.740000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7915,7 +7915,7 @@
     "minutes": 157,
     "rating": "6.480000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -7937,7 +7937,7 @@
     "minutes": 60,
     "rating": "6.650000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7959,7 +7959,7 @@
     "minutes": 185,
     "rating": "7.300000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -7981,7 +7981,7 @@
     "minutes": 93,
     "rating": "6.875000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -8003,7 +8003,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8025,7 +8025,7 @@
     "minutes": 248,
     "rating": "6.828571",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -8069,7 +8069,7 @@
     "minutes": 100,
     "rating": "6.450000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -8091,7 +8091,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8113,7 +8113,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8135,7 +8135,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8157,7 +8157,7 @@
     "minutes": 326,
     "rating": "6.840000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -8179,7 +8179,7 @@
     "minutes": 681,
     "rating": "6.828571",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8201,7 +8201,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8223,7 +8223,7 @@
     "minutes": 3,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8267,7 +8267,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8310,8 +8310,8 @@
     "appearances": 5,
     "minutes": 290,
     "rating": "7.100000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8332,8 +8332,8 @@
     "appearances": 6,
     "minutes": 385,
     "rating": "6.800000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8355,7 +8355,7 @@
     "minutes": 440,
     "rating": "6.833333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 1
   },
@@ -8376,8 +8376,8 @@
     "appearances": 7,
     "minutes": 630,
     "rating": "7.071428",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8399,7 +8399,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8420,7 +8420,7 @@
     "appearances": 7,
     "minutes": 589,
     "rating": "7.371428",
-    "goals": null,
+    "goals": 0,
     "assists": 5,
     "yellowCards": 1,
     "redCards": 0
@@ -8443,7 +8443,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8464,8 +8464,8 @@
     "appearances": 6,
     "minutes": 399,
     "rating": "7.083333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -8486,8 +8486,8 @@
     "appearances": 5,
     "minutes": 405,
     "rating": "7.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -8509,7 +8509,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8531,7 +8531,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8553,7 +8553,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8575,7 +8575,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8597,7 +8597,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8619,7 +8619,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8641,7 +8641,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8663,7 +8663,7 @@
     "minutes": 17,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8685,7 +8685,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8704,7 +8704,7 @@
       "logo": "https://media.api-sports.io/football/teams/217.png"
     },
     "appearances": 1,
-    "minutes": null,
+    "minutes": 0,
     "rating": null,
     "goals": 0,
     "assists": 0,
@@ -8728,8 +8728,8 @@
     "appearances": 2,
     "minutes": 15,
     "rating": "6.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8751,7 +8751,7 @@
     "minutes": 305,
     "rating": "6.842857",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8772,8 +8772,8 @@
     "appearances": 3,
     "minutes": 136,
     "rating": "6.833333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8794,8 +8794,8 @@
     "appearances": 5,
     "minutes": 434,
     "rating": "6.920000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8816,8 +8816,8 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "6.740000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -8838,7 +8838,7 @@
     "appearances": 7,
     "minutes": 351,
     "rating": "7.014285",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 2,
     "redCards": 0
@@ -8860,8 +8860,8 @@
     "appearances": 5,
     "minutes": 254,
     "rating": "6.900000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8882,8 +8882,8 @@
     "appearances": 3,
     "minutes": 196,
     "rating": "6.900000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8904,8 +8904,8 @@
     "appearances": 1,
     "minutes": 10,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8927,7 +8927,7 @@
     "minutes": 8,
     "rating": "6.750000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8948,8 +8948,8 @@
     "appearances": 5,
     "minutes": 150,
     "rating": "6.840000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8971,7 +8971,7 @@
     "minutes": 421,
     "rating": "7.233333",
     "goals": 3,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -8992,8 +8992,8 @@
     "appearances": 5,
     "minutes": 365,
     "rating": "6.420000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9014,8 +9014,8 @@
     "appearances": 5,
     "minutes": 204,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9036,8 +9036,8 @@
     "appearances": 1,
     "minutes": 8,
     "rating": "6.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9058,8 +9058,8 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9103,7 +9103,7 @@
     "minutes": 260,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -9125,7 +9125,7 @@
     "minutes": 233,
     "rating": "6.750000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9169,7 +9169,7 @@
     "minutes": 540,
     "rating": "6.920000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9191,7 +9191,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9213,7 +9213,7 @@
     "minutes": 416,
     "rating": "6.625000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9235,7 +9235,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9257,7 +9257,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9279,7 +9279,7 @@
     "minutes": 124,
     "rating": "6.666666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9301,7 +9301,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9323,7 +9323,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9345,7 +9345,7 @@
     "minutes": 175,
     "rating": "6.950000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9367,7 +9367,7 @@
     "minutes": 301,
     "rating": "6.925000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9389,7 +9389,7 @@
     "minutes": 293,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -9411,7 +9411,7 @@
     "minutes": 270,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9455,7 +9455,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9477,7 +9477,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9499,7 +9499,7 @@
     "minutes": 530,
     "rating": "7.016666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -9543,7 +9543,7 @@
     "minutes": 64,
     "rating": "6.350000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9565,7 +9565,7 @@
     "minutes": 720,
     "rating": "7.214285",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9587,7 +9587,7 @@
     "minutes": 171,
     "rating": "6.820000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -9631,7 +9631,7 @@
     "minutes": 693,
     "rating": "7.071428",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -9675,7 +9675,7 @@
     "minutes": 589,
     "rating": "7.083333",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9719,7 +9719,7 @@
     "minutes": 119,
     "rating": "6.525000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9741,7 +9741,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9763,7 +9763,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9785,7 +9785,7 @@
     "minutes": 187,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9807,7 +9807,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9829,7 +9829,7 @@
     "minutes": 2,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9851,7 +9851,7 @@
     "minutes": 217,
     "rating": "6.720000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -9873,7 +9873,7 @@
     "minutes": 13,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9895,7 +9895,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9917,7 +9917,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9939,7 +9939,7 @@
     "minutes": 96,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9961,7 +9961,7 @@
     "minutes": 66,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -9982,8 +9982,8 @@
     "appearances": 2,
     "minutes": 92,
     "rating": "6.950000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10005,7 +10005,7 @@
     "minutes": 100,
     "rating": "6.933333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10027,7 +10027,7 @@
     "minutes": 61,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10049,7 +10049,7 @@
     "minutes": 574,
     "rating": "6.766666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -10093,7 +10093,7 @@
     "minutes": 713,
     "rating": "7.114285",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10115,7 +10115,7 @@
     "minutes": 178,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10137,7 +10137,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10159,7 +10159,7 @@
     "minutes": 7,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10181,7 +10181,7 @@
     "minutes": 130,
     "rating": "6.250000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10203,7 +10203,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10225,7 +10225,7 @@
     "minutes": 497,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10247,7 +10247,7 @@
     "minutes": 531,
     "rating": "6.914285",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -10313,7 +10313,7 @@
     "minutes": 473,
     "rating": "6.820000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -10335,7 +10335,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10357,7 +10357,7 @@
     "minutes": 90,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10379,7 +10379,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10423,7 +10423,7 @@
     "minutes": 501,
     "rating": "7.050000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10445,7 +10445,7 @@
     "minutes": 366,
     "rating": "6.933333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10489,7 +10489,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10511,7 +10511,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10533,7 +10533,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10555,7 +10555,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10577,7 +10577,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10599,7 +10599,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10621,7 +10621,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10643,7 +10643,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10665,7 +10665,7 @@
     "minutes": 113,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -10687,7 +10687,7 @@
     "minutes": 405,
     "rating": "6.928571",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10709,7 +10709,7 @@
     "minutes": 334,
     "rating": "6.816666",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10731,7 +10731,7 @@
     "minutes": 523,
     "rating": "7.266666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -10753,7 +10753,7 @@
     "minutes": 513,
     "rating": "7.333333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -10775,7 +10775,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10797,7 +10797,7 @@
     "minutes": 480,
     "rating": "6.975000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10819,7 +10819,7 @@
     "minutes": 660,
     "rating": "7.650000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10841,7 +10841,7 @@
     "minutes": 192,
     "rating": "6.700000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10863,7 +10863,7 @@
     "minutes": 458,
     "rating": "7.000000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10884,8 +10884,8 @@
     "appearances": 3,
     "minutes": 172,
     "rating": "6.933333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -10907,7 +10907,7 @@
     "minutes": 82,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10928,8 +10928,8 @@
     "appearances": 5,
     "minutes": 147,
     "rating": "6.850000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -10951,7 +10951,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10973,7 +10973,7 @@
     "minutes": 422,
     "rating": "6.800000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -10994,8 +10994,8 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "7.140000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11017,7 +11017,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11038,8 +11038,8 @@
     "appearances": 2,
     "minutes": 103,
     "rating": "7.100000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11061,7 +11061,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11083,7 +11083,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11104,7 +11104,7 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "6.920000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -11126,8 +11126,8 @@
     "appearances": 4,
     "minutes": 40,
     "rating": "6.366666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11149,7 +11149,7 @@
     "minutes": 0,
     "rating": "6.614285",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11170,8 +11170,8 @@
     "appearances": 2,
     "minutes": 22,
     "rating": "6.900000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11193,7 +11193,7 @@
     "minutes": 0,
     "rating": "6.533333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11214,8 +11214,8 @@
     "appearances": 3,
     "minutes": 169,
     "rating": "7.066666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11237,7 +11237,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11259,7 +11259,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11281,7 +11281,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11303,7 +11303,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11324,8 +11324,8 @@
     "appearances": 3,
     "minutes": 266,
     "rating": "6.733333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 1
   },
@@ -11346,8 +11346,8 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "7.220000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11369,7 +11369,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11391,7 +11391,7 @@
     "minutes": 308,
     "rating": "7.300000",
     "goals": 3,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -11412,8 +11412,8 @@
     "appearances": 2,
     "minutes": 111,
     "rating": "6.750000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -11456,8 +11456,8 @@
     "appearances": 2,
     "minutes": 159,
     "rating": "6.800000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11478,8 +11478,8 @@
     "appearances": 3,
     "minutes": 111,
     "rating": "6.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -11500,7 +11500,7 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "7.060000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -11522,8 +11522,8 @@
     "appearances": 2,
     "minutes": 31,
     "rating": "6.450000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11545,7 +11545,7 @@
     "minutes": 125,
     "rating": "6.900000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11566,8 +11566,8 @@
     "appearances": 4,
     "minutes": 193,
     "rating": "6.500000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11588,8 +11588,8 @@
     "appearances": 5,
     "minutes": 148,
     "rating": "6.680000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -11610,8 +11610,8 @@
     "appearances": 4,
     "minutes": 360,
     "rating": "6.925000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -11632,8 +11632,8 @@
     "appearances": 3,
     "minutes": 128,
     "rating": "6.400000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11654,7 +11654,7 @@
     "appearances": 3,
     "minutes": 133,
     "rating": "6.600000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -11677,7 +11677,7 @@
     "minutes": 180,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11699,7 +11699,7 @@
     "minutes": 155,
     "rating": "6.450000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -11721,7 +11721,7 @@
     "minutes": 35,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11743,7 +11743,7 @@
     "minutes": 220,
     "rating": "7.033333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11765,7 +11765,7 @@
     "minutes": 391,
     "rating": "6.920000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11787,7 +11787,7 @@
     "minutes": 540,
     "rating": "7.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -11809,7 +11809,7 @@
     "minutes": 495,
     "rating": "6.740000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -11853,7 +11853,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11875,7 +11875,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11897,7 +11897,7 @@
     "minutes": 399,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -11919,7 +11919,7 @@
     "minutes": 210,
     "rating": "6.740000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -11941,7 +11941,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11963,7 +11963,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -11985,7 +11985,7 @@
     "minutes": 64,
     "rating": "6.525000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12007,7 +12007,7 @@
     "minutes": 301,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -12029,7 +12029,7 @@
     "minutes": 8,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -12073,7 +12073,7 @@
     "minutes": 238,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12095,7 +12095,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12117,7 +12117,7 @@
     "minutes": 210,
     "rating": "6.875000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12138,8 +12138,8 @@
     "appearances": 5,
     "minutes": 450,
     "rating": "6.860000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -12160,8 +12160,8 @@
     "appearances": 1,
     "minutes": 35,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12183,7 +12183,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12204,8 +12204,8 @@
     "appearances": 2,
     "minutes": 180,
     "rating": "6.550000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12227,7 +12227,7 @@
     "minutes": 497,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12249,7 +12249,7 @@
     "minutes": 339,
     "rating": "6.750000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -12271,7 +12271,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12293,7 +12293,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12314,8 +12314,8 @@
     "appearances": 4,
     "minutes": 145,
     "rating": "6.625000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12337,7 +12337,7 @@
     "minutes": 44,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12381,7 +12381,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12447,7 +12447,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12469,7 +12469,7 @@
     "minutes": 74,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -12491,7 +12491,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12513,7 +12513,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12535,7 +12535,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12557,7 +12557,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12579,7 +12579,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12601,7 +12601,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12623,7 +12623,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12667,7 +12667,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12689,7 +12689,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12711,7 +12711,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12733,7 +12733,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12755,7 +12755,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12777,7 +12777,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12799,7 +12799,7 @@
     "minutes": 432,
     "rating": "6.766666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -12821,7 +12821,7 @@
     "minutes": 317,
     "rating": "6.800000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -12887,7 +12887,7 @@
     "minutes": 101,
     "rating": "7.033333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12909,7 +12909,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12931,7 +12931,7 @@
     "minutes": 0,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -12953,7 +12953,7 @@
     "minutes": 289,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -12975,7 +12975,7 @@
     "minutes": 617,
     "rating": "7.100000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -12997,7 +12997,7 @@
     "minutes": 818,
     "rating": "6.933333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -13019,7 +13019,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13063,7 +13063,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13085,7 +13085,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13106,8 +13106,8 @@
     "appearances": 2,
     "minutes": 58,
     "rating": "6.450000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13129,7 +13129,7 @@
     "minutes": 314,
     "rating": "6.842857",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13151,7 +13151,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13173,7 +13173,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13217,7 +13217,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13238,8 +13238,8 @@
     "appearances": 10,
     "minutes": 888,
     "rating": "6.910000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13260,8 +13260,8 @@
     "appearances": 10,
     "minutes": 931,
     "rating": "7.210000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13282,8 +13282,8 @@
     "appearances": 6,
     "minutes": 415,
     "rating": "6.860000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -13326,8 +13326,8 @@
     "appearances": 1,
     "minutes": 22,
     "rating": "6.300000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13371,7 +13371,7 @@
     "minutes": 473,
     "rating": "6.816666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -13393,7 +13393,7 @@
     "minutes": 344,
     "rating": "6.480000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13414,7 +13414,7 @@
     "appearances": 8,
     "minutes": 492,
     "rating": "6.887500",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 2,
     "redCards": 0
@@ -13459,7 +13459,7 @@
     "minutes": 369,
     "rating": "7.080000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -13481,7 +13481,7 @@
     "minutes": 514,
     "rating": "6.771428",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13503,7 +13503,7 @@
     "minutes": 156,
     "rating": "6.740000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13547,7 +13547,7 @@
     "minutes": 507,
     "rating": "6.925000",
     "goals": 4,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13569,7 +13569,7 @@
     "minutes": 187,
     "rating": "6.900000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -13590,7 +13590,7 @@
     "appearances": 8,
     "minutes": 546,
     "rating": "6.925000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -13613,7 +13613,7 @@
     "minutes": 257,
     "rating": "6.714285",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13635,7 +13635,7 @@
     "minutes": 160,
     "rating": "6.525000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13657,7 +13657,7 @@
     "minutes": 137,
     "rating": "6.633333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -13679,7 +13679,7 @@
     "minutes": 422,
     "rating": "6.771428",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13701,7 +13701,7 @@
     "minutes": 464,
     "rating": "7.150000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13723,7 +13723,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13745,7 +13745,7 @@
     "minutes": 720,
     "rating": "7.062500",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13767,7 +13767,7 @@
     "minutes": 180,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -13789,7 +13789,7 @@
     "minutes": 213,
     "rating": "6.614285",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -13833,7 +13833,7 @@
     "minutes": 351,
     "rating": "7.075000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13855,7 +13855,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13877,7 +13877,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13899,7 +13899,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13921,7 +13921,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13943,7 +13943,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13965,7 +13965,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -13987,7 +13987,7 @@
     "minutes": 44,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -14009,7 +14009,7 @@
     "minutes": 281,
     "rating": "6.825000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14031,7 +14031,7 @@
     "minutes": 402,
     "rating": "7.350000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14053,7 +14053,7 @@
     "minutes": 204,
     "rating": "9.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14075,7 +14075,7 @@
     "minutes": 540,
     "rating": "7.033333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14119,7 +14119,7 @@
     "minutes": 36,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14141,7 +14141,7 @@
     "minutes": 360,
     "rating": "6.750000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14163,7 +14163,7 @@
     "minutes": 83,
     "rating": "6.266666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -14185,7 +14185,7 @@
     "minutes": 466,
     "rating": "7.016666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -14207,7 +14207,7 @@
     "minutes": 67,
     "rating": "6.433333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14229,7 +14229,7 @@
     "minutes": 147,
     "rating": "6.760000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14273,7 +14273,7 @@
     "minutes": 355,
     "rating": "7.040000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -14295,7 +14295,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14317,7 +14317,7 @@
     "minutes": 79,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14339,7 +14339,7 @@
     "minutes": 13,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14361,7 +14361,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14383,7 +14383,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14405,7 +14405,7 @@
     "minutes": 70,
     "rating": "7.100000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14427,7 +14427,7 @@
     "minutes": 11,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14449,7 +14449,7 @@
     "minutes": 180,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14471,7 +14471,7 @@
     "minutes": 540,
     "rating": "6.883333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -14515,7 +14515,7 @@
     "minutes": 35,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14537,7 +14537,7 @@
     "minutes": 540,
     "rating": "6.816666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -14559,7 +14559,7 @@
     "minutes": 196,
     "rating": "6.975000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -14581,7 +14581,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14603,7 +14603,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14625,7 +14625,7 @@
     "minutes": 93,
     "rating": "6.533333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14647,7 +14647,7 @@
     "minutes": 521,
     "rating": "6.833333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -14668,8 +14668,8 @@
     "appearances": 2,
     "minutes": 97,
     "rating": "7.000000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14691,7 +14691,7 @@
     "minutes": 540,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14735,7 +14735,7 @@
     "minutes": 298,
     "rating": "6.725000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -14757,7 +14757,7 @@
     "minutes": 269,
     "rating": "6.680000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -14779,7 +14779,7 @@
     "minutes": 61,
     "rating": "6.533333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14800,7 +14800,7 @@
     "appearances": 4,
     "minutes": 285,
     "rating": "6.150000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 1
@@ -14823,7 +14823,7 @@
     "minutes": 452,
     "rating": "6.650000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14845,7 +14845,7 @@
     "minutes": 99,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14867,7 +14867,7 @@
     "minutes": 540,
     "rating": "6.466666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -14889,7 +14889,7 @@
     "minutes": 33,
     "rating": "6.250000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14911,7 +14911,7 @@
     "minutes": 75,
     "rating": "7.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14933,7 +14933,7 @@
     "minutes": 540,
     "rating": "7.066666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -14955,7 +14955,7 @@
     "minutes": 540,
     "rating": "6.516666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -14977,7 +14977,7 @@
     "minutes": 90,
     "rating": "6.650000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -14999,7 +14999,7 @@
     "minutes": 54,
     "rating": "5.500000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 1
   },
@@ -15021,7 +15021,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15043,7 +15043,7 @@
     "minutes": 78,
     "rating": "6.800000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 1
   },
@@ -15064,8 +15064,8 @@
     "appearances": 6,
     "minutes": 310,
     "rating": "6.533333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15087,7 +15087,7 @@
     "minutes": 137,
     "rating": "6.950000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15109,7 +15109,7 @@
     "minutes": 209,
     "rating": "6.625000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -15131,7 +15131,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15153,7 +15153,7 @@
     "minutes": 15,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15197,7 +15197,7 @@
     "minutes": 286,
     "rating": "6.850000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -15219,7 +15219,7 @@
     "minutes": 394,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -15263,7 +15263,7 @@
     "minutes": 372,
     "rating": "7.440000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15307,7 +15307,7 @@
     "minutes": 439,
     "rating": "6.811111",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15395,7 +15395,7 @@
     "minutes": 90,
     "rating": "7.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15439,7 +15439,7 @@
     "minutes": 16,
     "rating": "6.450000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15461,7 +15461,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15483,7 +15483,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15505,7 +15505,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15527,7 +15527,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15549,7 +15549,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15571,7 +15571,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15593,7 +15593,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15703,7 +15703,7 @@
     "minutes": 349,
     "rating": "6.625000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -15835,7 +15835,7 @@
     "minutes": 20,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15857,7 +15857,7 @@
     "minutes": 0,
     "rating": "6.862500",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15901,7 +15901,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -15923,7 +15923,7 @@
     "minutes": 842,
     "rating": "6.727272",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -15989,7 +15989,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16011,7 +16011,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16033,7 +16033,7 @@
     "minutes": 1080,
     "rating": "7.666666",
     "goals": 8,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -16099,7 +16099,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16143,7 +16143,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16165,7 +16165,7 @@
     "minutes": 408,
     "rating": "7.060000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -16187,7 +16187,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16231,7 +16231,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16253,7 +16253,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16275,7 +16275,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16297,7 +16297,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16319,7 +16319,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16341,7 +16341,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16385,7 +16385,7 @@
     "minutes": 539,
     "rating": "7.166666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -16407,7 +16407,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16428,8 +16428,8 @@
     "appearances": 3,
     "minutes": 166,
     "rating": "7.266666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16451,7 +16451,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16472,8 +16472,8 @@
     "appearances": 6,
     "minutes": 119,
     "rating": "6.883333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16495,7 +16495,7 @@
     "minutes": 7,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16517,7 +16517,7 @@
     "minutes": 54,
     "rating": "6.450000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16539,7 +16539,7 @@
     "minutes": 1080,
     "rating": "7.025000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -16561,7 +16561,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16583,7 +16583,7 @@
     "minutes": 473,
     "rating": "6.540000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -16604,8 +16604,8 @@
     "appearances": 7,
     "minutes": 225,
     "rating": "6.614285",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -16626,8 +16626,8 @@
     "appearances": 8,
     "minutes": 392,
     "rating": "6.425000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -16671,7 +16671,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16692,8 +16692,8 @@
     "appearances": 5,
     "minutes": 421,
     "rating": "7.160000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -16715,7 +16715,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16737,7 +16737,7 @@
     "minutes": 155,
     "rating": "7.266666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -16759,7 +16759,7 @@
     "minutes": 122,
     "rating": "6.966666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16781,7 +16781,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16825,7 +16825,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16847,7 +16847,7 @@
     "minutes": 531,
     "rating": "7.250000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -16869,7 +16869,7 @@
     "minutes": 9,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16891,7 +16891,7 @@
     "minutes": 149,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16935,7 +16935,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -16957,7 +16957,7 @@
     "minutes": 352,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 4,
     "redCards": 0
   },
@@ -16979,7 +16979,7 @@
     "minutes": 90,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17001,7 +17001,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17023,7 +17023,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17045,7 +17045,7 @@
     "minutes": 13,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17067,7 +17067,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17089,7 +17089,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17111,7 +17111,7 @@
     "minutes": 2,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17133,7 +17133,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17155,7 +17155,7 @@
     "minutes": 441,
     "rating": "6.816666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17177,7 +17177,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17199,7 +17199,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17221,7 +17221,7 @@
     "minutes": 166,
     "rating": "6.925000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17242,8 +17242,8 @@
     "appearances": 2,
     "minutes": 30,
     "rating": "7.100000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17265,7 +17265,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17287,7 +17287,7 @@
     "minutes": 325,
     "rating": "7.225000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17331,7 +17331,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17353,7 +17353,7 @@
     "minutes": 540,
     "rating": "7.116666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -17375,7 +17375,7 @@
     "minutes": 443,
     "rating": "7.280000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17396,8 +17396,8 @@
     "appearances": 5,
     "minutes": 219,
     "rating": "6.625000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -17419,7 +17419,7 @@
     "minutes": 479,
     "rating": "6.966666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17463,7 +17463,7 @@
     "minutes": 369,
     "rating": "6.880000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17485,7 +17485,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17529,7 +17529,7 @@
     "minutes": 335,
     "rating": "7.125000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -17551,7 +17551,7 @@
     "minutes": 100,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17573,7 +17573,7 @@
     "minutes": 540,
     "rating": "7.083333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -17595,7 +17595,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17617,7 +17617,7 @@
     "minutes": 313,
     "rating": "6.720000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17661,7 +17661,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17683,7 +17683,7 @@
     "minutes": 450,
     "rating": "6.880000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17705,7 +17705,7 @@
     "minutes": 450,
     "rating": "7.680000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -17727,7 +17727,7 @@
     "minutes": 20,
     "rating": "7.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17749,7 +17749,7 @@
     "minutes": 277,
     "rating": "7.200000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17793,7 +17793,7 @@
     "minutes": 162,
     "rating": "6.266666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17815,7 +17815,7 @@
     "minutes": 90,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17837,7 +17837,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17859,7 +17859,7 @@
     "minutes": 439,
     "rating": "6.850000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17881,7 +17881,7 @@
     "minutes": 270,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17903,7 +17903,7 @@
     "minutes": 46,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17947,7 +17947,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -17969,7 +17969,7 @@
     "minutes": 412,
     "rating": "7.216666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -17991,7 +17991,7 @@
     "minutes": 238,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18013,7 +18013,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18035,7 +18035,7 @@
     "minutes": 90,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18057,7 +18057,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18079,7 +18079,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18101,7 +18101,7 @@
     "minutes": 354,
     "rating": "6.860000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18123,7 +18123,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18145,7 +18145,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18167,7 +18167,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18189,7 +18189,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18211,7 +18211,7 @@
     "minutes": 43,
     "rating": "6.500000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18233,7 +18233,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18255,7 +18255,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18277,7 +18277,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18299,7 +18299,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18321,7 +18321,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18343,7 +18343,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18365,7 +18365,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18387,7 +18387,7 @@
     "minutes": 666,
     "rating": "7.137500",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -18453,7 +18453,7 @@
     "minutes": 505,
     "rating": "6.983333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18563,7 +18563,7 @@
     "minutes": 434,
     "rating": "6.950000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18585,7 +18585,7 @@
     "minutes": 380,
     "rating": "7.071428",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18607,7 +18607,7 @@
     "minutes": 126,
     "rating": "6.800000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -18651,7 +18651,7 @@
     "minutes": 270,
     "rating": "6.766666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18695,7 +18695,7 @@
     "minutes": 216,
     "rating": "7.050000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18739,7 +18739,7 @@
     "minutes": 106,
     "rating": "7.000000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18761,7 +18761,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18783,7 +18783,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18805,7 +18805,7 @@
     "minutes": 2,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18827,7 +18827,7 @@
     "minutes": 192,
     "rating": "6.966666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18848,8 +18848,8 @@
     "appearances": 9,
     "minutes": 766,
     "rating": "7.233333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -18870,8 +18870,8 @@
     "appearances": 7,
     "minutes": 660,
     "rating": "6.885714",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -18915,7 +18915,7 @@
     "minutes": 535,
     "rating": "7.137500",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -18981,7 +18981,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19002,7 +19002,7 @@
     "appearances": 7,
     "minutes": 423,
     "rating": "7.450000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -19024,8 +19024,8 @@
     "appearances": 1,
     "minutes": 14,
     "rating": "6.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19047,7 +19047,7 @@
     "minutes": 558,
     "rating": "7.000000",
     "goals": 4,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19091,7 +19091,7 @@
     "minutes": 113,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19135,7 +19135,7 @@
     "minutes": 270,
     "rating": "6.766666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19157,7 +19157,7 @@
     "minutes": 353,
     "rating": "6.733333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19179,7 +19179,7 @@
     "minutes": 180,
     "rating": "7.750000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19201,7 +19201,7 @@
     "minutes": 411,
     "rating": "6.816666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19223,7 +19223,7 @@
     "minutes": 267,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19267,7 +19267,7 @@
     "minutes": 46,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19311,7 +19311,7 @@
     "minutes": 181,
     "rating": "7.200000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19332,8 +19332,8 @@
     "appearances": 4,
     "minutes": 120,
     "rating": "6.750000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19355,7 +19355,7 @@
     "minutes": 272,
     "rating": "6.500000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19377,7 +19377,7 @@
     "minutes": 599,
     "rating": "6.714285",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -19399,7 +19399,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19421,7 +19421,7 @@
     "minutes": 92,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19487,7 +19487,7 @@
     "minutes": 403,
     "rating": "6.500000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19509,7 +19509,7 @@
     "minutes": 121,
     "rating": "6.266666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19553,7 +19553,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19575,7 +19575,7 @@
     "minutes": 620,
     "rating": "6.614285",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19597,7 +19597,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19619,7 +19619,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19641,7 +19641,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19663,7 +19663,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19685,7 +19685,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19707,7 +19707,7 @@
     "minutes": 630,
     "rating": "7.328571",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19729,7 +19729,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19751,7 +19751,7 @@
     "minutes": 90,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19772,8 +19772,8 @@
     "appearances": 7,
     "minutes": 587,
     "rating": "7.071428",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19817,7 +19817,7 @@
     "minutes": 505,
     "rating": "6.916666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19839,7 +19839,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19861,7 +19861,7 @@
     "minutes": 440,
     "rating": "6.450000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -19883,7 +19883,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -19948,8 +19948,8 @@
     "appearances": 7,
     "minutes": 498,
     "rating": "6.614285",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -19993,7 +19993,7 @@
     "minutes": 133,
     "rating": "6.685714",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20015,7 +20015,7 @@
     "minutes": 90,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20059,7 +20059,7 @@
     "minutes": 421,
     "rating": "6.833333",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20081,7 +20081,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20103,7 +20103,7 @@
     "minutes": 131,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20125,7 +20125,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20147,7 +20147,7 @@
     "minutes": 172,
     "rating": "6.616666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20169,7 +20169,7 @@
     "minutes": 8,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20191,7 +20191,7 @@
     "minutes": 127,
     "rating": "6.950000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20213,7 +20213,7 @@
     "minutes": 36,
     "rating": "6.450000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20235,7 +20235,7 @@
     "minutes": 223,
     "rating": "6.680000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20257,7 +20257,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20279,7 +20279,7 @@
     "minutes": 313,
     "rating": "6.575000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20301,7 +20301,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20323,7 +20323,7 @@
     "minutes": 164,
     "rating": "7.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20367,7 +20367,7 @@
     "minutes": 215,
     "rating": "6.660000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20389,7 +20389,7 @@
     "minutes": 77,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20411,7 +20411,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20433,7 +20433,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20455,7 +20455,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20477,7 +20477,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20499,7 +20499,7 @@
     "minutes": 417,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -20543,7 +20543,7 @@
     "minutes": 173,
     "rating": "6.600000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20565,7 +20565,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20587,7 +20587,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20631,7 +20631,7 @@
     "minutes": 74,
     "rating": "6.740000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20653,7 +20653,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20697,7 +20697,7 @@
     "minutes": 147,
     "rating": "6.750000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20719,7 +20719,7 @@
     "minutes": 540,
     "rating": "7.116666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20741,7 +20741,7 @@
     "minutes": 8,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20763,7 +20763,7 @@
     "minutes": 212,
     "rating": "6.566666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20785,7 +20785,7 @@
     "minutes": 201,
     "rating": "6.716666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20807,7 +20807,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20829,7 +20829,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20851,7 +20851,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20873,7 +20873,7 @@
     "minutes": 114,
     "rating": "6.475000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20895,7 +20895,7 @@
     "minutes": 540,
     "rating": "6.850000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20916,8 +20916,8 @@
     "appearances": 1,
     "minutes": 65,
     "rating": "6.000000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -20939,7 +20939,7 @@
     "minutes": 7,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -20983,7 +20983,7 @@
     "minutes": 360,
     "rating": "6.900000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -21005,7 +21005,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21026,8 +21026,8 @@
     "appearances": 6,
     "minutes": 488,
     "rating": "6.500000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -21049,7 +21049,7 @@
     "minutes": 299,
     "rating": "6.625000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -21071,7 +21071,7 @@
     "minutes": 12,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21093,7 +21093,7 @@
     "minutes": 540,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -21115,7 +21115,7 @@
     "minutes": 237,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21137,7 +21137,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21181,7 +21181,7 @@
     "minutes": 395,
     "rating": "6.900000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -21203,7 +21203,7 @@
     "minutes": 720,
     "rating": "7.275000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -21225,7 +21225,7 @@
     "minutes": 318,
     "rating": "6.725000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -21247,7 +21247,7 @@
     "minutes": 659,
     "rating": "7.037500",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 1
   },
@@ -21291,7 +21291,7 @@
     "minutes": 327,
     "rating": "6.800000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -21313,7 +21313,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21335,7 +21335,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21357,7 +21357,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21379,7 +21379,7 @@
     "minutes": 229,
     "rating": "7.033333",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -21401,7 +21401,7 @@
     "minutes": 22,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21423,7 +21423,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21445,7 +21445,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21467,7 +21467,7 @@
     "minutes": 276,
     "rating": "6.875000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -21489,7 +21489,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21511,7 +21511,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21555,7 +21555,7 @@
     "minutes": 60,
     "rating": "6.200000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21577,7 +21577,7 @@
     "minutes": 270,
     "rating": "6.566666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -21598,8 +21598,8 @@
     "appearances": 2,
     "minutes": 180,
     "rating": "6.700000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21621,7 +21621,7 @@
     "minutes": 720,
     "rating": "7.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21709,7 +21709,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21730,7 +21730,7 @@
     "appearances": 10,
     "minutes": 836,
     "rating": "7.480000",
-    "goals": null,
+    "goals": 0,
     "assists": 4,
     "yellowCards": 1,
     "redCards": 0
@@ -21819,7 +21819,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21841,7 +21841,7 @@
     "minutes": 141,
     "rating": "6.466666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21863,7 +21863,7 @@
     "minutes": 440,
     "rating": "6.900000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -21885,7 +21885,7 @@
     "minutes": 343,
     "rating": "6.585714",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21929,7 +21929,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21951,7 +21951,7 @@
     "minutes": 0,
     "rating": "6.733333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21973,7 +21973,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -21995,7 +21995,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22017,7 +22017,7 @@
     "minutes": 33,
     "rating": "6.950000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22038,8 +22038,8 @@
     "appearances": 8,
     "minutes": 750,
     "rating": "6.950000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22061,7 +22061,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22082,8 +22082,8 @@
     "appearances": 1,
     "minutes": 14,
     "rating": "6.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22127,7 +22127,7 @@
     "minutes": 534,
     "rating": "7.114285",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -22146,7 +22146,7 @@
       "logo": "https://media.api-sports.io/football/teams/212.png"
     },
     "appearances": 0,
-    "minutes": null,
+    "minutes": 0,
     "rating": null,
     "goals": 0,
     "assists": 0,
@@ -22171,7 +22171,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22193,7 +22193,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22215,7 +22215,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22236,8 +22236,8 @@
     "appearances": 4,
     "minutes": 96,
     "rating": "6.933333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22259,7 +22259,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22281,7 +22281,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22302,8 +22302,8 @@
     "appearances": 4,
     "minutes": 308,
     "rating": "6.800000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22325,7 +22325,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22346,8 +22346,8 @@
     "appearances": 4,
     "minutes": 238,
     "rating": "6.900000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22369,7 +22369,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22391,7 +22391,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22412,7 +22412,7 @@
     "appearances": 2,
     "minutes": 210,
     "rating": "6.800000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 0,
     "redCards": 0
@@ -22434,8 +22434,8 @@
     "appearances": 8,
     "minutes": 708,
     "rating": "6.812500",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22457,7 +22457,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22479,7 +22479,7 @@
     "minutes": 660,
     "rating": "7.228571",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -22501,7 +22501,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22522,8 +22522,8 @@
     "appearances": 5,
     "minutes": 388,
     "rating": "7.080000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22544,8 +22544,8 @@
     "appearances": 6,
     "minutes": 188,
     "rating": "6.633333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22566,8 +22566,8 @@
     "appearances": 3,
     "minutes": 21,
     "rating": "6.500000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22588,8 +22588,8 @@
     "appearances": 3,
     "minutes": 47,
     "rating": "6.566666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22632,8 +22632,8 @@
     "appearances": 3,
     "minutes": 269,
     "rating": "6.366666",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -22654,8 +22654,8 @@
     "appearances": 1,
     "minutes": 64,
     "rating": "6.000000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22676,7 +22676,7 @@
     "appearances": 8,
     "minutes": 595,
     "rating": "6.950000",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 2,
     "redCards": 0
@@ -22698,8 +22698,8 @@
     "appearances": 4,
     "minutes": 360,
     "rating": "7.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 0
   },
@@ -22742,8 +22742,8 @@
     "appearances": 2,
     "minutes": 12,
     "rating": "6.200000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22764,8 +22764,8 @@
     "appearances": 3,
     "minutes": 38,
     "rating": "6.433333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22830,8 +22830,8 @@
     "appearances": 6,
     "minutes": 233,
     "rating": "6.733333",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -22853,7 +22853,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22875,7 +22875,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22897,7 +22897,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22919,7 +22919,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22963,7 +22963,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -22985,7 +22985,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23007,7 +23007,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23029,7 +23029,7 @@
     "minutes": 3,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23051,7 +23051,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23095,7 +23095,7 @@
     "minutes": 25,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23117,7 +23117,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23139,7 +23139,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23161,7 +23161,7 @@
     "minutes": 220,
     "rating": "6.825000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23183,7 +23183,7 @@
     "minutes": 391,
     "rating": "6.580000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -23205,7 +23205,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23227,7 +23227,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23249,7 +23249,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23271,7 +23271,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23293,7 +23293,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23315,7 +23315,7 @@
     "minutes": 0,
     "rating": "7.140000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23337,7 +23337,7 @@
     "minutes": 360,
     "rating": "6.400000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -23359,7 +23359,7 @@
     "minutes": 450,
     "rating": "7.080000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23381,7 +23381,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23403,7 +23403,7 @@
     "minutes": 540,
     "rating": "7.383333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -23447,7 +23447,7 @@
     "minutes": 0,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23469,7 +23469,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23491,7 +23491,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23513,7 +23513,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23535,7 +23535,7 @@
     "minutes": 65,
     "rating": "6.000000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23557,7 +23557,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23579,7 +23579,7 @@
     "minutes": 131,
     "rating": "6.450000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23601,7 +23601,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23623,7 +23623,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23645,7 +23645,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23667,7 +23667,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23689,7 +23689,7 @@
     "minutes": 13,
     "rating": "6.750000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23711,7 +23711,7 @@
     "minutes": 218,
     "rating": "6.550000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -23732,7 +23732,7 @@
     "appearances": 6,
     "minutes": 497,
     "rating": "6.933333",
-    "goals": null,
+    "goals": 0,
     "assists": 1,
     "yellowCards": 1,
     "redCards": 0
@@ -23755,7 +23755,7 @@
     "minutes": 344,
     "rating": "7.100000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -23776,7 +23776,7 @@
     "appearances": 6,
     "minutes": 536,
     "rating": "7.183333",
-    "goals": null,
+    "goals": 0,
     "assists": 2,
     "yellowCards": 0,
     "redCards": 0
@@ -23799,7 +23799,7 @@
     "minutes": 479,
     "rating": "7.233333",
     "goals": 4,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -23821,7 +23821,7 @@
     "minutes": 540,
     "rating": "7.016666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -23864,8 +23864,8 @@
     "appearances": 1,
     "minutes": 90,
     "rating": "6.300000",
-    "goals": null,
-    "assists": null,
+    "goals": 0,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23887,7 +23887,7 @@
     "minutes": 605,
     "rating": "7.057142",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -23909,7 +23909,7 @@
     "minutes": 564,
     "rating": "6.775000",
     "goals": 2,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -23931,7 +23931,7 @@
     "minutes": 399,
     "rating": "6.366666",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 1
   },
@@ -23953,7 +23953,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -23975,7 +23975,7 @@
     "minutes": 405,
     "rating": "6.783333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -23997,7 +23997,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24019,7 +24019,7 @@
     "minutes": 630,
     "rating": "6.857142",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -24063,7 +24063,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24085,7 +24085,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24107,7 +24107,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24129,7 +24129,7 @@
     "minutes": 452,
     "rating": "6.333333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 2,
     "redCards": 0
   },
@@ -24151,7 +24151,7 @@
     "minutes": 231,
     "rating": "6.500000",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -24173,7 +24173,7 @@
     "minutes": 152,
     "rating": "7.150000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24217,7 +24217,7 @@
     "minutes": 124,
     "rating": "7.050000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24239,7 +24239,7 @@
     "minutes": 468,
     "rating": "6.585714",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 3,
     "redCards": 1
   },
@@ -24261,7 +24261,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24283,7 +24283,7 @@
     "minutes": 90,
     "rating": "7.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24305,7 +24305,7 @@
     "minutes": 720,
     "rating": "6.862500",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -24327,7 +24327,7 @@
     "minutes": 56,
     "rating": "6.700000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24349,7 +24349,7 @@
     "minutes": 36,
     "rating": "6.233333",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24393,7 +24393,7 @@
     "minutes": 152,
     "rating": "6.525000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24415,7 +24415,7 @@
     "minutes": 443,
     "rating": "6.920000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 1,
     "redCards": 0
   },
@@ -24459,7 +24459,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24481,7 +24481,7 @@
     "minutes": 31,
     "rating": "6.300000",
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24503,7 +24503,7 @@
     "minutes": 153,
     "rating": "6.516666",
     "goals": 1,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24525,7 +24525,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24547,7 +24547,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   },
@@ -24569,7 +24569,7 @@
     "minutes": 0,
     "rating": null,
     "goals": 0,
-    "assists": null,
+    "assists": 0,
     "yellowCards": 0,
     "redCards": 0
   }
