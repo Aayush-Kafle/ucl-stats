@@ -7,7 +7,17 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <h1>UCL Stats</h1>
-  <p>Champions League player stats &amp; valuation — coming soon.</p>
+  <header class="site-header">
+    <h1>UCL Stats</h1>
+    <p class="subtitle">Champions League 2023-24 &mdash; player stats &amp; valuation</p>
+  </header>
+
+  <main>
+    <p id="status" class="status">Loading players&hellip;</p>
+    <div id="player-grid" class="player-grid"></div>
+  </main>
+
+  <script src="js/api.js"></script>
+  <script src="js/main.js"></script>
 </body>
 </html>
