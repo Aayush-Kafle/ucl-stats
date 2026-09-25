@@ -174,3 +174,141 @@ main {
   color: var(--text-dim);
   text-transform: uppercase;
 }
+
+.back-link {
+  color: var(--text-dim);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.back-link:hover {
+  color: var(--accent);
+}
+
+.player-detail {
+  max-width: 720px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.detail-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.detail-header h1 {
+  margin: 0 0 6px;
+  font-size: 1.6rem;
+}
+
+.player-photo--large {
+  width: 96px;
+  height: 96px;
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.detail-meta {
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.panel h2 {
+  margin: 0 0 16px;
+  font-size: 1.05rem;
+}
+
+.panel-note {
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  margin: 12px 0 0;
+}
+
+.panel-note a {
+  color: var(--accent);
+}
+
+.stat-rows {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 24px;
+}
+
+.stat-row {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 6px;
+  font-size: 0.9rem;
+}
+
+.stat-row span {
+  color: var(--text-dim);
+}
+
+.compare-row,
+.breakdown-row {
+  display: grid;
+  grid-template-columns: 140px 1fr 70px;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  font-size: 0.85rem;
+}
+
+.compare-label,
+.breakdown-label {
+  color: var(--text-dim);
+}
+
+.compare-track {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  height: 12px;
+  overflow: hidden;
+}
+
+.compare-fill {
+  height: 100%;
+  border-radius: 6px 0 0 6px;
+}
+
+.compare-fill--market {
+  background: var(--accent);
+}
+
+.compare-fill--implied {
+  background: #3fb950;
+}
+
+.compare-fill--breakdown {
+  background: var(--accent);
+}
+
+.compare-value {
+  text-align: right;
+  font-weight: 600;
+}
+
+@media (max-width: 480px) {
+  .compare-row,
+  .breakdown-row {
+    grid-template-columns: 100px 1fr 60px;
+  }
+  .detail-header {
+    flex-direction: column;
+    text-align: center;
+  }
+}
