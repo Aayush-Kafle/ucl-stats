@@ -1,12 +1,14 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const { findMarketValue } = require('../services/marketValues');
 
 const router = express.Router();
 const SNAPSHOT_PATH = path.join(__dirname, '..', 'data', 'players-snapshot.json');
 
 function loadPlayers() {
-  return JSON.parse(fs.readFileSync(SNAPSHOT_PATH, 'utf8'));
+  const players = JSON.parse(fs.readFileSync(SNAPSHOT_PATH, 'utf8'));
+  return players.map((p) => ({ ...p, marketValue: findMarketValue(p) }));
 }
 
 router.get('/', (req, res) => {

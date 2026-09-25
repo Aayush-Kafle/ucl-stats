@@ -1,0 +1,6301 @@
+{
+  "33": [
+    {
+      "name": "André Onana",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Dean Henderson",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Altay Bayındır",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Radek Vítek",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Tom Heaton",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Dermot Mee",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Lisandro Martínez",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Raphaël Varane",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Harry Maguire",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Victor Lindelöf",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Willy Kambwala",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Jonny Evans",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Rhys Bennett",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Louis Jackson",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Luke Shaw",
+      "valueEUR": 32000000,
+      "valueDisplay": "€32.00m"
+    },
+    {
+      "name": "Tyrell Malacia",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Sergio Reguilón",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Álvaro Carreras",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Brandon Williams",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Harry Amass",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Diogo Dalot",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Aaron Wan-Bissaka",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Habeeb Ogunneye",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Sofyan Amrabat",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Casemiro",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Toby Collyer",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Kobbie Mainoo",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Scott McTominay",
+      "valueEUR": 32000000,
+      "valueDisplay": "€32.00m"
+    },
+    {
+      "name": "Donny van de Beek",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Dan Gore",
+      "valueEUR": 900000,
+      "valueDisplay": "€900k"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Mason Mount",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Hannibal",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Christian Eriksen",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Marcus Rashford",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Alejandro Garnacho",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Jadon Sancho",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Antony",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Amad Diallo",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Facundo Pellistri",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Shola Shoretire",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Omari Forson",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Rasmus Højlund",
+      "valueEUR": 65000000,
+      "valueDisplay": "€65.00m"
+    },
+    {
+      "name": "Anthony Martial",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Joe Hugill",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Ethan Wheatley",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    }
+  ],
+  "34": [
+    {
+      "name": "Nick Pope",
+      "valueEUR": 16000000,
+      "valueDisplay": "€16.00m"
+    },
+    {
+      "name": "Martin Dúbravka",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Loris Karius",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Mark Gillespie",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Adam Harrison",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Aidan Harris",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Sven Botman",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Fabian Schär",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Dan Burn",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Jamaal Lascelles",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Kell Watts",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Lewis Hall",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Matt Targett",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Jamal Lewis",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Paul Dummett",
+      "valueEUR": 900000,
+      "valueDisplay": "€900k"
+    },
+    {
+      "name": "Alex Murphy",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Tino Livramento",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Kieran Trippier",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Emil Krafth",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Javier Manquillo",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Harrison Ashby",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Sandro Tonali",
+      "valueEUR": 38000000,
+      "valueDisplay": "€38.00m"
+    },
+    {
+      "name": "Elliot Anderson",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Isaac Hayden",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Bruno Guimarães",
+      "valueEUR": 85000000,
+      "valueDisplay": "€85.00m"
+    },
+    {
+      "name": "Joelinton",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Joe Willock",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Sean Longstaff",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Lewis Miley",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Jeff Hendrick",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Lucas De Bolle",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Travis Hernes",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "James Huntley",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Matt Ritchie",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Joe White",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Anthony Gordon",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Harvey Barnes",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Ryan Fraser",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Amadou Diallo",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Miguel Almirón",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Jacob Murphy",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Alexander Isak",
+      "valueEUR": 75000000,
+      "valueDisplay": "€75.00m"
+    },
+    {
+      "name": "Callum Wilson",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Ben Parkinson",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Michael Ndiweni",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    }
+  ],
+  "42": [
+    {
+      "name": "David Raya",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Aaron Ramsdale",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Matt Turner",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Karl Hein",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Arthur Okonkwo",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "William Saliba",
+      "valueEUR": 80000000,
+      "valueDisplay": "€80.00m"
+    },
+    {
+      "name": "Gabriel",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Takehiro Tomiyasu",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Jakub Kiwior",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Rob Holding",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Ayden Heaven",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Oleksandr Zinchenko",
+      "valueEUR": 38000000,
+      "valueDisplay": "€38.00m"
+    },
+    {
+      "name": "Kieran Tierney",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Lino Sousa",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Ben White",
+      "valueEUR": 55000000,
+      "valueDisplay": "€55.00m"
+    },
+    {
+      "name": "Jurriën Timber",
+      "valueEUR": 38000000,
+      "valueDisplay": "€38.00m"
+    },
+    {
+      "name": "Reuell Walters",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Cédric Soares",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "James Sweet",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Thomas Partey",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Jorginho",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Mohamed Elneny",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Myles Lewis-Skelly",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Bradley Ibrahim",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Declan Rice",
+      "valueEUR": 120000000,
+      "valueDisplay": "€120.00m"
+    },
+    {
+      "name": "Albert Sambi Lokonga",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Mauro Bandeira",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Martin Ødegaard",
+      "valueEUR": 110000000,
+      "valueDisplay": "€110.00m"
+    },
+    {
+      "name": "Emile Smith Rowe",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Fábio Vieira",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Ethan Nwaneri",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Leandro Trossard",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Reiss Nelson",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Charles Sagoe Jr",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Bukayo Saka",
+      "valueEUR": 140000000,
+      "valueDisplay": "€140.00m"
+    },
+    {
+      "name": "Amario Cozier-Duberry",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Kai Havertz",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Gabriel Jesus",
+      "valueEUR": 65000000,
+      "valueDisplay": "€65.00m"
+    },
+    {
+      "name": "Eddie Nketiah",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    }
+  ],
+  "50": [
+    {
+      "name": "Ederson",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Stefan Ortega",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Zack Steffen",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "True Grant",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Scott Carson",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Rúben Dias",
+      "valueEUR": 80000000,
+      "valueDisplay": "€80.00m"
+    },
+    {
+      "name": "Josko Gvardiol",
+      "valueEUR": 75000000,
+      "valueDisplay": "€75.00m"
+    },
+    {
+      "name": "Manuel Akanji",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Nathan Aké",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "John Stones",
+      "valueEUR": 38000000,
+      "valueDisplay": "€38.00m"
+    },
+    {
+      "name": "Taylor Harwood-Bellis",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Aymeric Laporte",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Max Alleyne",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Sergio Gómez",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Josh Wilson-Esbrand",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Matheus Nunes",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Rico Lewis",
+      "valueEUR": 38000000,
+      "valueDisplay": "€38.00m"
+    },
+    {
+      "name": "Kyle Walker",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Issa Kaboré",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Rodri",
+      "valueEUR": 120000000,
+      "valueDisplay": "€120.00m"
+    },
+    {
+      "name": "Kalvin Phillips",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Máximo Perrone",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Mahamadou Susoho",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Jacob Wright",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Mateo Kovacic",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Phil Foden",
+      "valueEUR": 150000000,
+      "valueDisplay": "€150.00m"
+    },
+    {
+      "name": "Cole Palmer",
+      "valueEUR": 80000000,
+      "valueDisplay": "€80.00m"
+    },
+    {
+      "name": "Bernardo Silva",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "James McAtee",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Jérémy Doku",
+      "valueEUR": 65000000,
+      "valueDisplay": "€65.00m"
+    },
+    {
+      "name": "Jack Grealish",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Micah Hamilton",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Oscar Bobb",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Erling Haaland",
+      "valueEUR": 180000000,
+      "valueDisplay": "€180.00m"
+    },
+    {
+      "name": "Julián Alvarez",
+      "valueEUR": 90000000,
+      "valueDisplay": "€90.00m"
+    }
+  ],
+  "85": [
+    {
+      "name": "Gianluigi Donnarumma",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Arnau Tenas",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Keylor Navas",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Sergio Rico",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Alexandre Letellier",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Louis Mouquet",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Marquinhos",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Lucas Beraldo",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Milan Škriniar",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Presnel Kimpembe",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Danilo Pereira",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Joane Gadou",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Nuno Mendes",
+      "valueEUR": 55000000,
+      "valueDisplay": "€55.00m"
+    },
+    {
+      "name": "Lucas Hernández",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Layvin Kurzawa",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Serif Nhaga",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Achraf Hakimi",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Nordi Mukiele",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Yoram Zague",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Vitinha",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Manuel Ugarte",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Warren Zaïre-Emery",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Fabián Ruiz",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Carlos Soler",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Senny Mayulu",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Cher Ndour",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Kang-in Lee",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Marco Asensio",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Bradley Barcola",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Ismaël Gharbi",
+      "valueEUR": 7500000,
+      "valueDisplay": "€7.50m"
+    },
+    {
+      "name": "Ethan Mbappé",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "valueEUR": 180000000,
+      "valueDisplay": "€180.00m"
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Gonçalo Ramos",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Randal Kolo Muani",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Hugo Ekitiké",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    }
+  ],
+  "116": [
+    {
+      "name": "Brice Samba",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Wuilker Fariñez",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Jean-Louis Leca",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Yannick Pandor",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Kevin Danso",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Facundo Medina",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Jonathan Gradit",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Abdukodir Khusanov",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Julien Le Cardinal",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Keny Mbala",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Deiver Machado",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Faitout Maouassa",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Jhoanner Chávez",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Massadio Haïdara",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Przemyslaw Frankowski",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Ruben Aguilar",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Tom Pouilly",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Salis Abdul Samed",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Nampalys Mendy",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Noah Diliberto",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Fodé Sylla",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Andy Diouf",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Neil El Aynaoui",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Adrien Thomasson",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Stijn Spierings",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Jimmy Cabot",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "David Da Costa",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Angelo Fulgini",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Ayanda Sishuba",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Nolan Bonte",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Adam Abeddou",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Wesley Saïd",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Óscar Cortés",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Anthony Bermont",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Morgan Guilavogui",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Elye Wahi",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Florian Sotoca",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Ibrahima Baldé",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    }
+  ],
+  "157": [
+    {
+      "name": "Manuel Neuer",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Daniel Peretz",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Sven Ulreich",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Max Schmitt",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Tom Ritzy Hülsmann",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Matthijs de Ligt",
+      "valueEUR": 65000000,
+      "valueDisplay": "€65.00m"
+    },
+    {
+      "name": "Benjamin Pavard",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Dayot Upamecano",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Min-jae Kim",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Eric Dier",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Tarek Buchmann",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Alphonso Davies",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Raphaël Guerreiro",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Frans Krätzig",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Adam Aznou",
+      "valueEUR": 900000,
+      "valueDisplay": "€900k"
+    },
+    {
+      "name": "Matteo Pérez Vinlöf",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Konrad Laimer",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Sacha Boey",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Bouna Sarr",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Max Scholze",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Joshua Kimmich",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Aleksandar Pavlovic",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Noël Aséko",
+      "valueEUR": 750000,
+      "valueDisplay": "€750k"
+    },
+    {
+      "name": "Leon Goretzka",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Taichi Fukui",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Luca Denk",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Jamal Musiala",
+      "valueEUR": 120000000,
+      "valueDisplay": "€120.00m"
+    },
+    {
+      "name": "Lovro Zvonarek",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Jonathan Asp Jensen",
+      "valueEUR": 1300000,
+      "valueDisplay": "€1.30m"
+    },
+    {
+      "name": "Kingsley Coman",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Mathys Tel",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Bryan Zaragoza",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Leroy Sané",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Serge Gnabry",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Thomas Müller",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Harry Kane",
+      "valueEUR": 100000000,
+      "valueDisplay": "€100.00m"
+    },
+    {
+      "name": "Eric-Maxim Choupo-Moting",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    }
+  ],
+  "165": [
+    {
+      "name": "Gregor Kobel",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Marcel Lotka",
+      "valueEUR": 1300000,
+      "valueDisplay": "€1.30m"
+    },
+    {
+      "name": "Alexander Meyer",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Niklas Süle",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Emre Can",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Ramy Bensebaini",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Mats Hummels",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Hendry Blank",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Abdoulaye Kamara",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Antonios Papadopoulos",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Ian Maatsen",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Guille Bueno",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Julian Ryerson",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Marius Wolf",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Thomas Meunier",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Mateu Morey",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Salih Özcan",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Felix Nmecha",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Kjell Wätjen",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Julian Brandt",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Giovanni Reyna",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Thorgan Hazard",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Marco Reus",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Ole Pohlmann",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Jadon Sancho",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Jamie Gittens",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Julien Duranville",
+      "valueEUR": 8500000,
+      "valueDisplay": "€8.50m"
+    },
+    {
+      "name": "Karim Adeyemi",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Samuel Bamba",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Donyell Malen",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Youssoufa Moukoko",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Niclas Füllkrug",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Sébastien Haller",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Paris Brunner",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    }
+  ],
+  "173": [
+    {
+      "name": "Péter Gulácsi",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Janis Blaswich",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Timo Schlieck",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Leopold Zingerle",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Castello Lukeba",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Mohamed Simakan",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "El Chadaille Bitshiabu",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Willi Orbán",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Lukas Klostermann",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Jonathan Norbye",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Tim Köhler",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "David Raum",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Christopher Lenz",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Benjamin Henrichs",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Hugo Novoa",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Nicolas Seiwald",
+      "valueEUR": 16000000,
+      "valueDisplay": "€16.00m"
+    },
+    {
+      "name": "Xaver Schlager",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Amadou Haidara",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Kevin Kampl",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Ilaix Moriba",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Xavi Simons",
+      "valueEUR": 80000000,
+      "valueDisplay": "€80.00m"
+    },
+    {
+      "name": "Dani Olmo",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Eljif Elmas",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Christoph Baumgartner",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Fábio Carvalho",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Nuha Jatta",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Emil Forsberg",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Loïs Openda",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Benjamin Sesko",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Timo Werner",
+      "valueEUR": 17000000,
+      "valueDisplay": "€17.00m"
+    },
+    {
+      "name": "Yussuf Poulsen",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Yannick Eduardo",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    }
+  ],
+  "182": [
+    {
+      "name": "Frederik Rönnow",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Alexander Schwolow",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Jakob Busk",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Yannic Stein",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Danilho Doekhi",
+      "valueEUR": 17000000,
+      "valueDisplay": "€17.00m"
+    },
+    {
+      "name": "Diogo Leite",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Robin Knoche",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Kevin Vogt",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Paul Jaeckel",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Leonardo Bonucci",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Oluwaseun Ogbemudia",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Robin Gosens",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Jérôme Roussillon",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Josip Juranovic",
+      "valueEUR": 7500000,
+      "valueDisplay": "€7.50m"
+    },
+    {
+      "name": "Christopher Trimmel",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Laurenz Dehl",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Rani Khedira",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Aljoscha Kemlein",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Lucas Tousart",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Aïssa Laïdouni",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "András Schäfer",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Alex Král",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Janik Haberer",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Tim Schleinitz",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Brenden Aaronson",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Kevin Volland",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Milos Pantovic",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Sheraldo Becker",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "David Datro Fofana",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Yorbe Vertessen",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Jordan",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Benedict Hollerbach",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Mikkel Kaufmann",
+      "valueEUR": 2700000,
+      "valueDisplay": "€2.70m"
+    },
+    {
+      "name": "Chris Bedia",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Kevin Behrens",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    }
+  ],
+  "197": [
+    {
+      "name": "Walter Benítez",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Joël Drommel",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Kjell Peersman",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Niek Schiks",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Boy Waterman",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Olivier Boscagli",
+      "valueEUR": 27000000,
+      "valueDisplay": "€27.00m"
+    },
+    {
+      "name": "Armel Bella-Kotchap",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Armando Obispo",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "André Ramalho",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Mauro Júnior",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Patrick van Aanholt",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Phillipp Mwene",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Fredrik Oppegård",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Sergiño Dest",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Jordan Teze",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Shurandy Sambo",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Jason van Duiven",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Richard Ledezma",
+      "valueEUR": 900000,
+      "valueDisplay": "€900k"
+    },
+    {
+      "name": "Livano Comenencia",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Ibrahim Sangaré",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Jerdy Schouten",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Tygo Land",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Joey Veerman",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Malik Tillman",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Ismael Saibari",
+      "valueEUR": 16000000,
+      "valueDisplay": "€16.00m"
+    },
+    {
+      "name": "Guus Til",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Isaac Babadi",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Noa Lang",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Hirving Lozano",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Johan Bakayoko",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Anwar El Ghazi",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Ricardo Pepi",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Yorbe Vertessen",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Luuk de Jong",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Jesper Uneken",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    }
+  ],
+  "209": [
+    {
+      "name": "Justin Bijlow",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Timon Wellenreuther",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Mikki van Sas",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Kostas Lamprou",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Mannou Berger",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Dávid Hancko",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Lutsharel Geertruida",
+      "valueEUR": 32000000,
+      "valueDisplay": "€32.00m"
+    },
+    {
+      "name": "Thomas Beelen",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Gernot Trauner",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Neraysho Kasanwirjo",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Ramon Hendriks",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Djomar Giersthove",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Quilindschy Hartman",
+      "valueEUR": 23000000,
+      "valueDisplay": "€23.00m"
+    },
+    {
+      "name": "Marcos López",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Mats Wieffer",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Marcus Pedersen",
+      "valueEUR": 5500000,
+      "valueDisplay": "€5.50m"
+    },
+    {
+      "name": "Bart Nieuwkoop",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Givairo Read",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Ramiz Zerrouki",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Quinten Timber",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Thomas van den Belt",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Gjivai Zechiël",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Luka Ivanušec",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Antoni Milambo",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Igor Paixão",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Leo Sauer",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Javairô Dilrosun",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Jaden Slory",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Yankuba Minteh",
+      "valueEUR": 16000000,
+      "valueDisplay": "€16.00m"
+    },
+    {
+      "name": "Calvin Stengs",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Ondrej Lingr",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Alireza Jahanbakhsh",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Santiago Gimenez",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Ayase Ueda",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    }
+  ],
+  "211": [
+    {
+      "name": "Anatoliy Trubin",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Odysseas Vlachodimos",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Samuel Soares",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "André Gomes",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Leo Kokubo",
+      "valueEUR": 750000,
+      "valueDisplay": "€750k"
+    },
+    {
+      "name": "António Silva",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Morato",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Tomás Araújo",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "João Victor",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Adrian Bajrami",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Gustavo Marques",
+      "valueEUR": 1400000,
+      "valueDisplay": "€1.40m"
+    },
+    {
+      "name": "Nicolás Otamendi",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "David Jurásek",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Álvaro Carreras",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Juan Bernat",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Mihailo Ristic",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Alexander Bah",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Diogo Spencer",
+      "valueEUR": 750000,
+      "valueDisplay": "€750k"
+    },
+    {
+      "name": "Florentino",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "João Neves",
+      "valueEUR": 55000000,
+      "valueDisplay": "€55.00m"
+    },
+    {
+      "name": "Orkun Kökçü",
+      "valueEUR": 27000000,
+      "valueDisplay": "€27.00m"
+    },
+    {
+      "name": "Fredrik Aursnes",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Diogo Prioste",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "João Mário",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Chiquinho",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Hugo Félix",
+      "valueEUR": 1700000,
+      "valueDisplay": "€1.70m"
+    },
+    {
+      "name": "João Rego",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Gonçalo Guedes",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Andreas Schjelderup",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "David Neres",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Rafa Silva",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Gianluca Prestianni",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Benjamín Rollheiser",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Tiago Gouveia",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Ángel Di María",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Gerson Sousa",
+      "valueEUR": 1300000,
+      "valueDisplay": "€1.30m"
+    },
+    {
+      "name": "Marcos Leonardo",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Arthur Cabral",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Petar Musa",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Casper Tengstedt",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Gustavo Varela",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    }
+  ],
+  "212": [
+    {
+      "name": "Diogo Costa",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Cláudio Ramos",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Gonçalo Ribeiro",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Samuel Portugal",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Otávio",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "David Carmo",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Fábio Cardoso",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Zé Pedro",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Gabriel Brás",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Pepe",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Iván Marcano",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Wendell",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Zaidu Sanusi",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "João Mendes",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "João Mário",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Martim Fernandes",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Jorge Sánchez",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Alan Varela",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Nico González",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Marko Grujić",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Romário Baró",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Stephen Eustaquio",
+      "valueEUR": 11000000,
+      "valueDisplay": "€11.00m"
+    },
+    {
+      "name": "Bernardo Folha",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Otávio",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Iván Jaime",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "André Franco",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Galeno",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Danny Namaso",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Pepê",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Francisco Conceição",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Gabriel Veron",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Gonçalo Borges",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Gonçalo Sousa",
+      "valueEUR": 1700000,
+      "valueDisplay": "€1.70m"
+    },
+    {
+      "name": "Evanilson",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Mehdi Taremi",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Fran Navarro",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Toni Martínez",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Wendel",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    }
+  ],
+  "217": [
+    {
+      "name": "Matheus",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Lukas Hornicek",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Tiago Sá",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Bernardo",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Sikou Niakaté",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Serdar Saatçı",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Vítor Carvalho",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Paulo Oliveira",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Diogo Fonseca",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "José Fonte",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Nuno Matos",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Cristián Borja",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Adrián Marín",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Chissumba",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Víctor Gómez",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Joe Mendes",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Moatasem Al-Musrati",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Djibril Soumaré",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "André Horta",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Cher Ndour",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "João Moutinho",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Castro",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Ricardo Horta",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Rodrigo Zalazar",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Lucas Piazón",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Pizzi",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Álvaro Djaló",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Bruma",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Kauan Kelvin",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Roger Fernandes",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Rony Lopes",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Simon Banza",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Abel Ruiz",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Yan Said",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    }
+  ],
+  "247": [
+    {
+      "name": "Joe Hart",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Benjamin Siegrist",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Scott Bain",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Joe Morrison",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Cameron Carter-Vickers",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Carl Starfelt",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Nat Phillips",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Maik Nawrocki",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Gustaf Lagerbielke",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Liam Scales",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Stephen Welsh",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Yuki Kobayashi",
+      "valueEUR": 650000,
+      "valueDisplay": "€650k"
+    },
+    {
+      "name": "Greg Taylor",
+      "valueEUR": 7500000,
+      "valueDisplay": "€7.50m"
+    },
+    {
+      "name": "Alexandro Bernabei",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Adam Montgomery",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Mitchel Frame",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Alistair Johnston",
+      "valueEUR": 8500000,
+      "valueDisplay": "€8.50m"
+    },
+    {
+      "name": "Anthony Ralston",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Callum McGregor",
+      "valueEUR": 8500000,
+      "valueDisplay": "€8.50m"
+    },
+    {
+      "name": "Tomoki Iwata",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Hyeok-kyu Kwon",
+      "valueEUR": 750000,
+      "valueDisplay": "€750k"
+    },
+    {
+      "name": "Liam Shaw",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Matt O'Riley",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Reo Hatate",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "David Turnbull",
+      "valueEUR": 3800000,
+      "valueDisplay": "€3.80m"
+    },
+    {
+      "name": "Odin Thiago Holm",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Daniel Kelly",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "James McCarthy",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Paulo Bernardo",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Daizen Maeda",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Luis Palma",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Sead Haksabanovic",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Mikey Johnston",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Rocco Vata",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Liel Abada",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Nicolas Kühn",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Hyun-jun Yang",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Marco Tilio",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "James Forrest",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Kyogo Furuhashi",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Adam Idah",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Hyeon-gyu Oh",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Johnny Kenny",
+      "valueEUR": 175000,
+      "valueDisplay": "€175k"
+    }
+  ],
+  "400": [
+    {
+      "name": "Kamil Grabara",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Theo Sander",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Rúnar Alex Rúnarsson",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Andreas Dithmer",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Oscar Buur",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Scott McKenna",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Kevin Diks",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Denis Vavro",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Valdemar Lund",
+      "valueEUR": 1400000,
+      "valueDisplay": "€1.40m"
+    },
+    {
+      "name": "Davit Khocholava",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Birger Meling",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Christian Sørensen",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Nicolai Boilesen",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Elias Jelert",
+      "valueEUR": 5500000,
+      "valueDisplay": "€5.50m"
+    },
+    {
+      "name": "Peter Ankersen",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Lukas Lerager",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Mateo Tanlongo",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "William Clem",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Magnus Mattsson",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Ísak Jóhannesson",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Rasmus Falk",
+      "valueEUR": 850000,
+      "valueDisplay": "€850k"
+    },
+    {
+      "name": "Oscar Højlund",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Victor Froholdt",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Oliver Højer",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Diogo Gonçalves",
+      "valueEUR": 5500000,
+      "valueDisplay": "€5.50m"
+    },
+    {
+      "name": "Elias Achouri",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Paul Mukairu",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Noah Sahsah",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Roony Bardghji",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Jordan Larsson",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Mohamed Elyounoussi",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Orri Óskarsson",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Viktor Claesson",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Andreas Cornelius",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Mamoudou Karamoko",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Emil Højlund",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Khouma Babacar",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    }
+  ],
+  "487": [
+    {
+      "name": "Ivan Provedel",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Christos Mandas",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Luigi Sepe",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Federico Magro",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Marius Adamonis",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Alessio Furlanetto",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Davide Renzetti",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Alessio Romagnoli",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Nicolò Casale",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Mario Gila",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Patric",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Fabio Andrea Ruggeri",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Matteo Duțu",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Luca Pellegrini",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Dimitrije Kamenovic",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Adam Marusic",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Manuel Lazzari",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Elseid Hysaj",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Nicolò Rovella",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Danilo Cataldi",
+      "valueEUR": 5500000,
+      "valueDisplay": "€5.50m"
+    },
+    {
+      "name": "Mattéo Guendouzi",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Daichi Kamada",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Toma Bašić",
+      "valueEUR": 2800000,
+      "valueDisplay": "€2.80m"
+    },
+    {
+      "name": "Matías Vecino",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Larsson Coulibaly",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Luis Alberto",
+      "valueEUR": 11000000,
+      "valueDisplay": "€11.00m"
+    },
+    {
+      "name": "André Anderson",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Luca Napolitano",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Mattia Zaccagni",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Felipe Anderson",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Saná Fernandes",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Gustav Isaksen",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Pedro",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Diego González",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Cristiano Lombardi",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Taty Castellanos",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Ciro Immobile",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    }
+  ],
+  "489": [
+    {
+      "name": "Mike Maignan",
+      "valueEUR": 38000000,
+      "valueDisplay": "€38.00m"
+    },
+    {
+      "name": "Marco Sportiello",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Noah Raveyre",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Lapo Nava",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Antonio Mirante",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Andrea Bartoccioni",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Lorenzo Torriani",
+      "valueEUR": 10000,
+      "valueDisplay": "€10k"
+    },
+    {
+      "name": "Fikayo Tomori",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Malick Thiaw",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Pierre Kalulu",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Matteo Gabbia",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Jan-Carlo Simić",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Filippo Terracciano",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Marco Pellegrino",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Simon Kjaer",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Mattia Caldara",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Clinton Nsiala",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Theo Hernández",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Davide Bartesaghi",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Davide Calabria",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Álex Jiménez",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Alessandro Florenzi",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Ismaël Bennacer",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Yacine Adli",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Rade Krunic",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Victor Eletu",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Tijjani Reijnders",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Ruben Loftus-Cheek",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Yunus Musah",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Tommaso Pobega",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Kevin Zeroli",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Rafael Leão",
+      "valueEUR": 90000000,
+      "valueDisplay": "€90.00m"
+    },
+    {
+      "name": "Noah Okafor",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Chaka Traorè",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Diego Sia",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Christian Pulisic",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Samuel Chukwueze",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Luka Romero",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Francesco Camarda",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Luka Jović",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Lorenzo Colombo",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Olivier Giroud",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    }
+  ],
+  "492": [
+    {
+      "name": "Alex Meret",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Pierluigi Gollini",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Nikita Contini",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Hubert Idasiak",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Amir Rrahmani",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Natan",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Leo Østigård",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Juan Jesus",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Luigi D'Avino",
+      "valueEUR": 125000,
+      "valueDisplay": "€125k"
+    },
+    {
+      "name": "Mathías Olivera",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Mário Rui",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Giovanni Di Lorenzo",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Alessandro Zanoli",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Pasquale Mazzocchi",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Stanislav Lobotka",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Jens Cajuste",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Leander Dendoncker",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Gianluca Gaetano",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Diego Demme",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Lorenzo Russo",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Frank Anguissa",
+      "valueEUR": 27000000,
+      "valueDisplay": "€27.00m"
+    },
+    {
+      "name": "Piotr Zielinski",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Francesco Gioielli",
+      "valueEUR": 175000,
+      "valueDisplay": "€175k"
+    },
+    {
+      "name": "Alessio Zerbin",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Karim Zedadka",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Eljif Elmas",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Khvicha Kvaratskhelia",
+      "valueEUR": 80000000,
+      "valueDisplay": "€80.00m"
+    },
+    {
+      "name": "Hamed Traoré",
+      "valueEUR": 17000000,
+      "valueDisplay": "€17.00m"
+    },
+    {
+      "name": "Hirving Lozano",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Jesper Lindstrøm",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Matteo Politano",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Cyril Ngonge",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Giacomo Raspadori",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Victor Osimhen",
+      "valueEUR": 100000000,
+      "valueDisplay": "€100.00m"
+    },
+    {
+      "name": "Giovanni Simeone",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    }
+  ],
+  "505": [
+    {
+      "name": "Yann Sommer",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Emil Audero",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Raffaele Di Gennaro",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Alessandro Calligaris",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Alessandro Bastoni",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Benjamin Pavard",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Yann Bisseck",
+      "valueEUR": 16000000,
+      "valueDisplay": "€16.00m"
+    },
+    {
+      "name": "Stefan de Vrij",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Francesco Acerbi",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Giacomo Stabile",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Federico Dimarco",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Carlos Augusto",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Matteo Motta",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Denzel Dumfries",
+      "valueEUR": 24000000,
+      "valueDisplay": "€24.00m"
+    },
+    {
+      "name": "Matteo Darmian",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Tommaso Guercio",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Hakan Çalhanoğlu",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Kristjan Asllani",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Lucien Agoumé",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Aleksandar Stanković",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Nicolò Barella",
+      "valueEUR": 80000000,
+      "valueDisplay": "€80.00m"
+    },
+    {
+      "name": "Davide Frattesi",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Davy Klaassen",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Stefano Sensi",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Ebenezer Akinsanmiro",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Juan Cuadrado",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Issiaka Kamate",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Tajon Buchanan",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Joaquín Correa",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Alexis Sánchez",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "valueEUR": 110000000,
+      "valueDisplay": "€110.00m"
+    },
+    {
+      "name": "Marcus Thuram",
+      "valueEUR": 65000000,
+      "valueDisplay": "€65.00m"
+    },
+    {
+      "name": "Marko Arnautovic",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Amadou Sarr",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    }
+  ],
+  "529": [
+    {
+      "name": "Marc ter Stegen",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Iñaki Peña",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Ander Astralaga",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Diego Kochen",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Áron Yaakobishvili",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Ronald Araujo",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "Andreas Christensen",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Pau Cubarsí",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Eric García",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Mikayil Faye",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Iñigo Martínez",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Marcos Alonso",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Alejandro Balde",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Jules Koundé",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "João Cancelo",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Héctor Fort",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Marc Casadó",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Oriol Romeu",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Pau Prim",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Gavi",
+      "valueEUR": 90000000,
+      "valueDisplay": "€90.00m"
+    },
+    {
+      "name": "Pedri",
+      "valueEUR": 80000000,
+      "valueDisplay": "€80.00m"
+    },
+    {
+      "name": "Frenkie de Jong",
+      "valueEUR": 70000000,
+      "valueDisplay": "€70.00m"
+    },
+    {
+      "name": "İlkay Gündoğan",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Sergi Roberto",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Unai Hernández",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Aleix Garrido",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Fermín López",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Ansu Fati",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Abde Ezzalzouli",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Lamine Yamal",
+      "valueEUR": 90000000,
+      "valueDisplay": "€90.00m"
+    },
+    {
+      "name": "Ángel Alarcón",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "João Félix",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Raphinha",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Ferran Torres",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Vitor Roque",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Robert Lewandowski",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Marc Guiu",
+      "valueEUR": 7500000,
+      "valueDisplay": "€7.50m"
+    },
+    {
+      "name": "Pau Víctor",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    }
+  ],
+  "530": [
+    {
+      "name": "Jan Oblak",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Ivo Grbic",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Horațiu Moldovan",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Antonio Gomis",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Sergio Mestre",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Mario Hermoso",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "José María Giménez",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Çağlar Söyüncü",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Stefan Savić",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Gabriel Paulista",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Marco Moreno",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Ilias Kostis",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Reinildo Mandava",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Javi Galán",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Marcos Llorente",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Nahuel Molina",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "César Azpilicueta",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Javier Boñar",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Arthur Vermeeren",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Axel Witsel",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Rodrigo De Paul",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Pablo Barrios",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Koke",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Saúl Ñíguez",
+      "valueEUR": 7500000,
+      "valueDisplay": "€7.50m"
+    },
+    {
+      "name": "Aitor Gismera",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Thomas Lemar",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Sergio Guerrero",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Álex Calatrava",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Rayane Belaid",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Samuel Lino",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Rodrigo Riquelme",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Yannick Carrasco",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Marcos Paulo",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Salim El Jebari",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Vitolo",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "João Félix",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Antoine Griezmann",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Ángel Correa",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Álvaro Morata",
+      "valueEUR": 16000000,
+      "valueDisplay": "€16.00m"
+    },
+    {
+      "name": "Memphis Depay",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Adrián Niño",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Abde Raihani",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    }
+  ],
+  "536": [
+    {
+      "name": "Yassine Bounou",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Ørjan Nyland",
+      "valueEUR": 1400000,
+      "valueDisplay": "€1.40m"
+    },
+    {
+      "name": "Marko Dmitrovic",
+      "valueEUR": 900000,
+      "valueDisplay": "€900k"
+    },
+    {
+      "name": "Alberto Flores",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Matías Árbol",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Rafa Romero",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Loïc Badé",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Kike Salas",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Marcão",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Federico Gattoni",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Tanguy Nianzou",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Sergio Ramos",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Xavi Sintes",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Adrià Pedrosa",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Marcos Acuña",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Diego Hormigo",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Oso",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Juanlu Sánchez",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Darío Benavides",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Boubakary Soumaré",
+      "valueEUR": 14000000,
+      "valueDisplay": "€14.00m"
+    },
+    {
+      "name": "Lucien Agoumé",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Nemanja Gudelj",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Fernando",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Djibril Sow",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Óliver Torres",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Joan Jordán",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Ivan Rakitic",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Manu Bueno",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Lulo Dasilva",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Alberto Collado",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Jesús Navas",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Hannibal",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Stanis Idumbo",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Miguel Capitas",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Lucas Ocampos",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Isra Domínguez",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Papu Gómez",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Dodi Lukébakio",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Suso",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Jesús Corona",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Erik Lamela",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Adnan Januzaj",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Youssef En-Nesyri",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Isaac Romero",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Alejo Veliz",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Rafa Mir",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Mariano Díaz",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Ibra Sow",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    }
+  ],
+  "541": [
+    {
+      "name": "Thibaut Courtois",
+      "valueEUR": 28000000,
+      "valueDisplay": "€28.00m"
+    },
+    {
+      "name": "Andriy Lunin",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Kepa Arrizabalaga",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Lucas Cañizares",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Mario de Luis",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Diego Piñeiro",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Fran González",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Éder Militão",
+      "valueEUR": 60000000,
+      "valueDisplay": "€60.00m"
+    },
+    {
+      "name": "Antonio Rüdiger",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "David Alaba",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Nacho Fernández",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Álvaro Carrillo",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Edgar Pujol",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Jacobo Ramón",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Ferland Mendy",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Fran García",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Daniel Carvajal",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Lucas Vázquez",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Vinícius Tobias",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Álvaro Odriozola",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Aurélien Tchouaméni",
+      "valueEUR": 100000000,
+      "valueDisplay": "€100.00m"
+    },
+    {
+      "name": "Mario Martín",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Federico Valverde",
+      "valueEUR": 120000000,
+      "valueDisplay": "€120.00m"
+    },
+    {
+      "name": "Eduardo Camavinga",
+      "valueEUR": 100000000,
+      "valueDisplay": "€100.00m"
+    },
+    {
+      "name": "Toni Kroos",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Luka Modrić",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Dani Ceballos",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Théo Zidane",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Jude Bellingham",
+      "valueEUR": 180000000,
+      "valueDisplay": "€180.00m"
+    },
+    {
+      "name": "Arda Güler",
+      "valueEUR": 30000000,
+      "valueDisplay": "€30.00m"
+    },
+    {
+      "name": "Nico Paz",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Vinicius Junior",
+      "valueEUR": 180000000,
+      "valueDisplay": "€180.00m"
+    },
+    {
+      "name": "Rodrygo",
+      "valueEUR": 110000000,
+      "valueDisplay": "€110.00m"
+    },
+    {
+      "name": "Brahim Díaz",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Joselu",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Álvaro Rodríguez",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Gonzalo García",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    }
+  ],
+  "548": [
+    {
+      "name": "Álex Remiro",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Gaizka Ayesa",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Unai Marrero",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Aitor Fraga",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Robin Le Normand",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Igor Zubeldia",
+      "valueEUR": 22000000,
+      "valueDisplay": "€22.00m"
+    },
+    {
+      "name": "Jon Pacheco",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Aritz Elustondo",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Jon Martín",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Kieran Tierney",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Aihen Muñoz",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Javi Galán",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Diego Rico",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Hamari Traoré",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Jon Aramburu",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Álvaro Odriozola",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Alberto Dadie",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Iñaki Rupérez",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Martín Zubimendi",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Urko González de Zárate",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Mikel Merino",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Beñat Turrientes",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Jon Ander Olasagasti",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Brais Méndez",
+      "valueEUR": 40000000,
+      "valueDisplay": "€40.00m"
+    },
+    {
+      "name": "Arsen Zakharyan",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Pablo Marín",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Jon Magunazelaia",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Ander Barrenetxea",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Sheraldo Becker",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Martín Merquelanz",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Takefusa Kubo",
+      "valueEUR": 50000000,
+      "valueDisplay": "€50.00m"
+    },
+    {
+      "name": "Mohamed-Ali Cho",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Robert Navarro",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Álex Sola",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "valueEUR": 45000000,
+      "valueDisplay": "€45.00m"
+    },
+    {
+      "name": "Umar Sadiq",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "André Silva",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Jon Karrikaburu",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Carlos Fernández",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Bryan Fiabema",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    }
+  ],
+  "550": [
+    {
+      "name": "Anatoliy Trubin",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Dmytro Riznyk",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Kiril Fesyun",
+      "valueEUR": 900000,
+      "valueDisplay": "€900k"
+    },
+    {
+      "name": "Denys Tvardovskyi",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Artur Rudko",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Tymur Puzankov",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Denys Barchenko",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Mykola Matvienko",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Valeriy Bondar",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Bartol Franjic",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Alaa Ghram",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Stav Lemkin",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Yaroslav Rakitskyi",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Eduard Kozik",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Luka Latsabidze",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Maryan Faryna",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Danylo Udod",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Dmytro Chygrynskyi",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Irakli Azarovi",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Pedro Henrique",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Yukhym Konoplya",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Vinícius Tobias",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Giorgi Gocholeishvili",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Taras Stepanenko",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Novatus Miroshi",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Marlon Gomes",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Dmytro Kryskiv",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Yegor Nazaryna",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Denil Castillo",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Viktor Tsukanov",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Georgiy Sudakov",
+      "valueEUR": 35000000,
+      "valueDisplay": "€35.00m"
+    },
+    {
+      "name": "Artem Bondarenko",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Oleg Ocheretko",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Bogdan Viunnyk",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Andriy Totovytskyi",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Anton Glushchenko",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Kevin",
+      "valueEUR": 12000000,
+      "valueDisplay": "€12.00m"
+    },
+    {
+      "name": "Eguinaldo",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Newerton",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Dmytro Topalov",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Ivan Petryak",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Khusrav Toirov",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Oleksandr Zubkov",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Pedrinho",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Oleksiy Kashchuk",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Maryan Shved",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Danylo Sikan",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Lassina Traoré",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Kevin Kelsy",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    }
+  ],
+  "565": [
+    {
+      "name": "Marvin Keller",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Anthony Racioppi",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "David von Ballmoos",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Dario Marzino",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Leandro Zbinden",
+      "valueEUR": 75000,
+      "valueDisplay": "€75k"
+    },
+    {
+      "name": "Aurèle Amenda",
+      "valueEUR": 9500000,
+      "valueDisplay": "€9.50m"
+    },
+    {
+      "name": "Mohamed Camara",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Anel Husic",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Sandro Lauper",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Sadin Crnovrsanin",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Mats Seiler",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Loris Benito",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Fabian Lustenberger",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Ulisses Garcia",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Jaouen Hadjam",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Noah Persson",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Lewin Blum",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Saidy Janko",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Benjamin Kabeya",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Cheikh Niasse",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Lukasz Lakomy",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Miguel Chaiwa",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Filip Ugrinic",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Jashar Dema",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Donat Rrudhani",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Kastriot Imeri",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Fabian Rieder",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Meschack Elia",
+      "valueEUR": 7500000,
+      "valueDisplay": "€7.50m"
+    },
+    {
+      "name": "Joël Monteiro",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Ebrima Colley",
+      "valueEUR": 2300000,
+      "valueDisplay": "€2.30m"
+    },
+    {
+      "name": "Joel Mvuka",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Darian Males",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Malik Deme",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Jean-Pierre Nsame",
+      "valueEUR": 2800000,
+      "valueDisplay": "€2.80m"
+    },
+    {
+      "name": "Cedric Itten",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Silvere Ganvoula",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    }
+  ],
+  "571": [
+    {
+      "name": "Alexander Schlager",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Nico Mantl",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Timo Horn",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Jonas Krumrey",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Strahinja Pavlović",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Oumar Solet",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Samson Baidoo",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Flavius Daniliuc",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Nicolás Capaldo",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Kamil Piątkowski",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Hendry Blank",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Douglas Mendes",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Bryan Okoh",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Lukas Wallner",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Aleksa Terzić",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Daouda Guindo",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Andreas Ulmer",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Amar Dedic",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Leandro Morgalla",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Lucas Gourna-Douath",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Mamady Diambou",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Samson Tijani",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "Luka Sucic",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Maurits Kjærgaard",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Mads Bidstrup",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Amankwah Forson",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Justin Omoregie",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Oscar Gloukh",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Dijon Kameri",
+      "valueEUR": 2300000,
+      "valueDisplay": "€2.30m"
+    },
+    {
+      "name": "Dorgeles Nene",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Adam Daghim",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Moussa Yeo",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Karim Konaté",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Roko Simic",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Fernando",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Petar Ratkov",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Sékou Koïta",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    }
+  ],
+  "598": [
+    {
+      "name": "Omri Glazer",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Ivan Gutesa",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Nikola Vasiljevic",
+      "valueEUR": 200000,
+      "valueDisplay": "€200k"
+    },
+    {
+      "name": "Zoran Popovic",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Aleksandar Dragovic",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Nasser Djiga",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Stefan Lekovic",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Uros Spajic",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Milos Degenek",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Nemanja Milunovic",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Veljko Milosavljevic",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Irakli Azarovi",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Milan Rodic",
+      "valueEUR": 1200000,
+      "valueDisplay": "€1.20m"
+    },
+    {
+      "name": "Viktor Radojević",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Kosta Nedeljkovic",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Alex Vigo",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Ognjen Mimović",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Lazar Nikolic",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Marko Stamenić",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Srdjan Mijailovic",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Nikola Knezevic",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Edmund Addo",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "In-beom Hwang",
+      "valueEUR": 8500000,
+      "valueDisplay": "€8.50m"
+    },
+    {
+      "name": "Kings Kangwa",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Jovan Sljivic",
+      "valueEUR": 1250000,
+      "valueDisplay": "€1.25m"
+    },
+    {
+      "name": "Guélor Kanga",
+      "valueEUR": 900000,
+      "valueDisplay": "€900k"
+    },
+    {
+      "name": "Mirko Ivanic",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Aleksandar Katai",
+      "valueEUR": 1300000,
+      "valueDisplay": "€1.30m"
+    },
+    {
+      "name": "Egor Prutsev",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Andrija Maksimovic",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Jovan Mituljikic",
+      "valueEUR": 700000,
+      "valueDisplay": "€700k"
+    },
+    {
+      "name": "Peter Olayinka",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Vladimir Lucic",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Stefan Mitrović",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Veljko Vukojevic",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Osman Bukari",
+      "valueEUR": 7000000,
+      "valueDisplay": "€7.00m"
+    },
+    {
+      "name": "Uros Kabic",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Nikola Mituljikic",
+      "valueEUR": 650000,
+      "valueDisplay": "€650k"
+    },
+    {
+      "name": "Jovan Mijatovic",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Jean-Philippe Krasso",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Cherif Ndiaye",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Uros Sremcevic",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    }
+  ],
+  "645": [
+    {
+      "name": "Fernando Muslera",
+      "valueEUR": 1400000,
+      "valueDisplay": "€1.40m"
+    },
+    {
+      "name": "Günay Güvenç",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Batuhan Şen",
+      "valueEUR": 425000,
+      "valueDisplay": "€425k"
+    },
+    {
+      "name": "Jankat Yılmaz",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Atakan Ordu",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Davinson Sánchez",
+      "valueEUR": 17000000,
+      "valueDisplay": "€17.00m"
+    },
+    {
+      "name": "Victor Nelsson",
+      "valueEUR": 17000000,
+      "valueDisplay": "€17.00m"
+    },
+    {
+      "name": "Abdülkerim Bardakcı",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Kaan Ayhan",
+      "valueEUR": 4700000,
+      "valueDisplay": "€4.70m"
+    },
+    {
+      "name": "Emin Bayram",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Ali Yeşilyurt",
+      "valueEUR": 75000,
+      "valueDisplay": "€75k"
+    },
+    {
+      "name": "Angeliño",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Derrick Köhn",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Kazımcan Karataş",
+      "valueEUR": 1900000,
+      "valueDisplay": "€1.90m"
+    },
+    {
+      "name": "Sacha Boey",
+      "valueEUR": 18000000,
+      "valueDisplay": "€18.00m"
+    },
+    {
+      "name": "Serge Aurier",
+      "valueEUR": 3700000,
+      "valueDisplay": "€3.70m"
+    },
+    {
+      "name": "Léo Dubois",
+      "valueEUR": 3500000,
+      "valueDisplay": "€3.50m"
+    },
+    {
+      "name": "Ali Turap Bülbül",
+      "valueEUR": 250000,
+      "valueDisplay": "€250k"
+    },
+    {
+      "name": "Lucas Torreira",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Eyüp Aydın",
+      "valueEUR": 1300000,
+      "valueDisplay": "€1.30m"
+    },
+    {
+      "name": "Efe Akman",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Baran Aksaka",
+      "valueEUR": 75000,
+      "valueDisplay": "€75k"
+    },
+    {
+      "name": "Tanguy Ndombélé",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Kerem Demirbay",
+      "valueEUR": 4800000,
+      "valueDisplay": "€4.80m"
+    },
+    {
+      "name": "Berkan Kutlu",
+      "valueEUR": 3800000,
+      "valueDisplay": "€3.80m"
+    },
+    {
+      "name": "Sérgio Oliveira",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Fredrik Midtsjø",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Hamza Akman",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Gökdeniz Gürpüz",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Barış Alper Yılmaz",
+      "valueEUR": 17000000,
+      "valueDisplay": "€17.00m"
+    },
+    {
+      "name": "Kerem Aktürkoğlu",
+      "valueEUR": 15000000,
+      "valueDisplay": "€15.00m"
+    },
+    {
+      "name": "Wilfried Zaha",
+      "valueEUR": 11000000,
+      "valueDisplay": "€11.00m"
+    },
+    {
+      "name": "Emre Kılınç",
+      "valueEUR": 2000000,
+      "valueDisplay": "€2.00m"
+    },
+    {
+      "name": "Baran Demiroğlu",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Caner Doğan",
+      "valueEUR": 25000,
+      "valueDisplay": "€25k"
+    },
+    {
+      "name": "Tetê",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Hakim Ziyech",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Yunus Akgün",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Olimpiu Moruțan",
+      "valueEUR": 3000000,
+      "valueDisplay": "€3.00m"
+    },
+    {
+      "name": "Yusuf Demir",
+      "valueEUR": 2700000,
+      "valueDisplay": "€2.70m"
+    },
+    {
+      "name": "Nicolò Zaniolo",
+      "valueEUR": 20000000,
+      "valueDisplay": "€20.00m"
+    },
+    {
+      "name": "Dries Mertens",
+      "valueEUR": 1800000,
+      "valueDisplay": "€1.80m"
+    },
+    {
+      "name": "Mauro Icardi",
+      "valueEUR": 17000000,
+      "valueDisplay": "€17.00m"
+    },
+    {
+      "name": "Carlos Vinícius",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Cédric Bakambu",
+      "valueEUR": 2500000,
+      "valueDisplay": "€2.50m"
+    },
+    {
+      "name": "Halil Dervişoğlu",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    }
+  ],
+  "740": [
+    {
+      "name": "Jean Butez",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Senne Lammens",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Ortwin De Wolf",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Niels Devalckeneer",
+      "valueEUR": 100000,
+      "valueDisplay": "€100k"
+    },
+    {
+      "name": "Davino Verhulst",
+      "valueEUR": 50000,
+      "valueDisplay": "€50k"
+    },
+    {
+      "name": "Zeno Van Den Bosch",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Soumaïla Coulibaly",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Gastón Ávila",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Toby Alderweireld",
+      "valueEUR": 2800000,
+      "valueDisplay": "€2.80m"
+    },
+    {
+      "name": "Björn Engels",
+      "valueEUR": 400000,
+      "valueDisplay": "€400k"
+    },
+    {
+      "name": "Dorian Dessoleil",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Owen Wijndal",
+      "valueEUR": 5500000,
+      "valueDisplay": "€5.50m"
+    },
+    {
+      "name": "Sam Vines",
+      "valueEUR": 1500000,
+      "valueDisplay": "€1.50m"
+    },
+    {
+      "name": "Laurit Krasniqi",
+      "valueEUR": 150000,
+      "valueDisplay": "€150k"
+    },
+    {
+      "name": "Eran Tuypens",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Jelle Bataille",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Kobe Corbanie",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Ritchie De Laet",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Arthur Vermeeren",
+      "valueEUR": 25000000,
+      "valueDisplay": "€25.00m"
+    },
+    {
+      "name": "Mandela Keita",
+      "valueEUR": 13000000,
+      "valueDisplay": "€13.00m"
+    },
+    {
+      "name": "Milan Smits",
+      "valueEUR": 300000,
+      "valueDisplay": "€300k"
+    },
+    {
+      "name": "Eliot Matazo",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Alhassan Yusuf",
+      "valueEUR": 5000000,
+      "valueDisplay": "€5.00m"
+    },
+    {
+      "name": "Jurgen Ekkelenkamp",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Mahamadou Doumbia",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    },
+    {
+      "name": "Christopher Scott",
+      "valueEUR": 600000,
+      "valueDisplay": "€600k"
+    },
+    {
+      "name": "Milo Horemans",
+      "valueEUR": null,
+      "valueDisplay": "-"
+    },
+    {
+      "name": "Michel-Ange Balikwisha",
+      "valueEUR": 9000000,
+      "valueDisplay": "€9.00m"
+    },
+    {
+      "name": "Chidera Ejuke",
+      "valueEUR": 6000000,
+      "valueDisplay": "€6.00m"
+    },
+    {
+      "name": "Jacob Ondrejka",
+      "valueEUR": 4000000,
+      "valueDisplay": "€4.00m"
+    },
+    {
+      "name": "Victor Udoh",
+      "valueEUR": 500000,
+      "valueDisplay": "€500k"
+    },
+    {
+      "name": "Arbnor Muja",
+      "valueEUR": 4500000,
+      "valueDisplay": "€4.50m"
+    },
+    {
+      "name": "Gyrano Kerk",
+      "valueEUR": 2200000,
+      "valueDisplay": "€2.20m"
+    },
+    {
+      "name": "Anthony Valencia",
+      "valueEUR": 800000,
+      "valueDisplay": "€800k"
+    },
+    {
+      "name": "George Ilenikhena",
+      "valueEUR": 10000000,
+      "valueDisplay": "€10.00m"
+    },
+    {
+      "name": "Vincent Janssen",
+      "valueEUR": 8000000,
+      "valueDisplay": "€8.00m"
+    },
+    {
+      "name": "Michael Frey",
+      "valueEUR": 1000000,
+      "valueDisplay": "€1.00m"
+    }
+  ]
+}
