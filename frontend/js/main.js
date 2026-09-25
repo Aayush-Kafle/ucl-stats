@@ -1,3 +1,10 @@
+function normalizeForSearch(str) {
+  return str
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase();
+}
+
 function initials(name) {
   return name
     .split(' ')
@@ -50,16 +57,68 @@ function playerCard(player) {
   return card;
 }
 
-async function init() {
+const SORTERS = {
+  ga: (a, b) => (b.goals + b.assists) - (a.goals + a.assists),
+  goals: (a, b) => b.goals - a.goals,
+  assists: (a, b) => b.assists - a.assists,
+  marketValue: (a, b) => (b.marketValue ? b.marketValue.valueEUR : -1) - (a.marketValue ? a.marketValue.valueEUR : -1),
+  score: (a, b) => (b.valuation ? b.valuation.score : -1) - (a.valuation ? a.valuation.score : -1),
+  age: (a, b) => (a.age ?? 999) - (b.age ?? 999),
+  minutes: (a, b) => b.minutes - a.minutes,
+};
+
+let allPlayers = [];
+
+function populateTeamFilter(players) {
+  const select = document.getElementById('team-filter');
+  const teams = [...new Map(players.map((p) => [p.team.id, p.team.name])).entries()].sort((a, b) =>
+    a[1].localeCompare(b[1])
+  );
+  for (const [id, name] of teams) {
+    const opt = document.createElement('option');
+    opt.value = name;
+    opt.textContent = name;
+    select.appendChild(opt);
+  }
+}
+
+function applyFiltersAndRender() {
   const grid = document.getElementById('player-grid');
+  const emptyState = document.getElementById('empty-state');
+  const query = normalizeForSearch(document.getElementById('search-input').value.trim());
+  const position = document.getElementById('position-filter').value;
+  const team = document.getElementById('team-filter').value;
+  const sortKey = document.getElementById('sort-select').value;
+
+  let filtered = allPlayers.filter((p) => {
+    if (query && !normalizeForSearch(p.name).includes(query)) return false;
+    if (position && p.position !== position) return false;
+    if (team && p.team.name !== team) return false;
+    return true;
+  });
+
+  filtered.sort(SORTERS[sortKey] || SORTERS.ga);
+
+  grid.innerHTML = '';
+  emptyState.hidden = filtered.length > 0;
+  for (const player of filtered) {
+    grid.appendChild(playerCard(player));
+  }
+}
+
+async function init() {
   const status = document.getElementById('status');
   try {
-    const players = await fetchPlayers();
+    allPlayers = await fetchPlayers();
     status.remove();
-    const sorted = [...players].sort((a, b) => (b.goals + b.assists) - (a.goals + a.assists));
-    for (const player of sorted) {
-      grid.appendChild(playerCard(player));
-    }
+    populateTeamFilter(allPlayers);
+
+    document.getElementById('search-input').addEventListener('input', applyFiltersAndRender);
+    document.getElementById('position-filter').addEventListener('change', applyFiltersAndRender);
+    document.getElementById('team-filter').addEventListener('change', applyFiltersAndRender);
+    document.getElementById('sort-select').addEventListener('change', applyFiltersAndRender);
+
+    applyFiltersAndRender();
   } catch (err) {
     status.textContent = 'Failed to load players. Is the backend running?';
   }

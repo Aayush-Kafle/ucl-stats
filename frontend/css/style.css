@@ -45,6 +45,31 @@ main {
   color: var(--text-dim);
 }
 
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 16px 0 20px;
+}
+
+.control-input {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 8px 12px;
+  font-size: 0.85rem;
+  font-family: inherit;
+}
+
+.control-input:focus {
+  outline: 1px solid var(--accent);
+}
+
+#search-input {
+  flex: 1 1 200px;
+}
+
 .player-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));

@@ -13,7 +13,30 @@
   </header>
 
   <main>
+    <div class="controls">
+      <input id="search-input" type="text" placeholder="Search players&hellip;" class="control-input" />
+      <select id="position-filter" class="control-input">
+        <option value="">All positions</option>
+        <option value="Attacker">Attacker</option>
+        <option value="Midfielder">Midfielder</option>
+        <option value="Defender">Defender</option>
+        <option value="Goalkeeper">Goalkeeper</option>
+      </select>
+      <select id="team-filter" class="control-input">
+        <option value="">All teams</option>
+      </select>
+      <select id="sort-select" class="control-input">
+        <option value="ga">Sort: Goal contributions</option>
+        <option value="goals">Sort: Goals</option>
+        <option value="assists">Sort: Assists</option>
+        <option value="marketValue">Sort: Market value</option>
+        <option value="score">Sort: Value score</option>
+        <option value="age">Sort: Age (youngest first)</option>
+        <option value="minutes">Sort: Minutes</option>
+      </select>
+    </div>
     <p id="status" class="status">Loading players&hellip;</p>
+    <p id="empty-state" class="status" hidden>No players match your filters.</p>
     <div id="player-grid" class="player-grid"></div>
   </main>
 
