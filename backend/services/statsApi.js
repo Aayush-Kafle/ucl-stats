@@ -31,4 +31,10 @@ async function getPlayersPageForTeam(teamId, page) {
   return res.data;
 }
 
-module.exports = { LEAGUE_ID, SEASON, getGroupStageTeams, getPlayersPageForTeam };
+async function getRemainingQuota() {
+  const res = await client().get('/status');
+  const { current, limit_day: limitDay } = res.data.response.requests;
+  return { used: current, limit: limitDay, remaining: limitDay - current };
+}
+
+module.exports = { LEAGUE_ID, SEASON, getGroupStageTeams, getPlayersPageForTeam, getRemainingQuota };

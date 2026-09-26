@@ -16,6 +16,11 @@ function normalize(str) {
 
 function load() {
   if (!cache) {
+    if (!fs.existsSync(DATA_PATH)) {
+      console.warn(`market-values.json not found at ${DATA_PATH} — serving without market values.`);
+      cache = {};
+      return cache;
+    }
     const raw = JSON.parse(fs.readFileSync(DATA_PATH, 'utf8'));
     cache = {};
     for (const [teamId, players] of Object.entries(raw)) {

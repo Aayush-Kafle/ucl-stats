@@ -82,6 +82,16 @@ async function fetchAllPlayersForTeam(team) {
 }
 
 async function main() {
+  try {
+    const quota = await statsApi.getRemainingQuota();
+    console.log(`API quota: ${quota.used}/${quota.limit} used today (${quota.remaining} remaining).`);
+    if (quota.remaining < 10) {
+      console.warn('Quota is nearly exhausted — this run may stop partway through. That is fine: rerun later to resume, already-cached teams are skipped.');
+    }
+  } catch (err) {
+    console.warn('Could not check remaining quota, proceeding anyway:', err.message);
+  }
+
   let teams;
   if (cache.has('teams')) {
     teams = cache.read('teams');
